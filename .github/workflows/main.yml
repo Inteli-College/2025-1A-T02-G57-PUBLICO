@@ -47,7 +47,20 @@ jobs:
                   npm run build
 
             - name: Prepare build artifacts
-              run: mv ${{ env.BUILD_DIR }} ../build
+              run: mv ${{ env.BUILD_DIR }} ./build
+
+            - name: Verify build artifacts
+              run: |
+                ls -lh build/
+                du -sh build/
+
+            - name: Configure GitHub Pages
+              uses: actions/configure-pages@v4
+
+            - name: Upload deployment artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: build
 
             - name: Configure GitHub Pages
               uses: actions/configure-pages@v4
