@@ -46,16 +46,13 @@ jobs:
                   npm ci --production
                   npm run build
 
-            - name: Prepare build artifacts
-              run: mv ${{ env.BUILD_DIR }} ../build
-
             - name: Configure GitHub Pages
               uses: actions/configure-pages@v4
 
             - name: Upload deployment artifact
               uses: actions/upload-pages-artifact@v3
               with:
-                  path: build
+                  path: ${{ env.BUILD_DIR }}
 
             - name: Deploy to GitHub Pages
               id: deployment
