@@ -1,0 +1,38 @@
+name: Docusaurus CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.x]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: documentation/node_modules
+        key: ${{ runner.os }}-docs-${{ hashFiles('documentation/package-lock.json') }}
+
+    - name: Install dependencies and build
+      working-directory: documentation
+      run: |
+        npm ci
+        npm run build
+
+    - name: Test build output
+      working-directory: documentation
+      run: npx serve build -p 3000 & sleep 10 && curl -LI http://localhost:3000 -o /dev/null -w '%{http_code}\n' -s | grep 200
