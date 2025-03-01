@@ -45,7 +45,7 @@ jobs:
               run: |
                   npm ci --production
                   npm run build
-                  ls -i ${{ env.BUILD_DIR }}
+                  ls -i build
 
             - name: Prepare build artifacts
               run: mv ${{ env.BUILD_DIR }} ../build
