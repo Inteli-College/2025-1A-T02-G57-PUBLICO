@@ -47,7 +47,7 @@ jobs:
                   npm run build
 
             - name: Prepare build artifacts
-              run: mv ${{ env.BUILD_DIR }}
+              run: mv ${{ env.BUILD_DIR }} ../build
 
             - name: Configure GitHub Pages
               uses: actions/configure-pages@v4
