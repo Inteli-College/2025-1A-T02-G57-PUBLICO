@@ -43,9 +43,8 @@ jobs:
             - name: Install dependencies and build documentation
               working-directory: ${{ env.DOCS_DIR }}
               run: |
-                  npm ci --production
+                  npm ci
                   npm run build
-                  ls -i build
 
             - name: Prepare build artifacts
               run: mv ${{ env.BUILD_DIR }} ../build
