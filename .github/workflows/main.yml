@@ -36,3 +36,12 @@ jobs:
     - name: Test build output
       working-directory: documentation
       run: npx serve build -p 3000 & sleep 10 && curl -LI http://localhost:3000 -o /dev/null -w '%{http_code}\n' -s | grep 200
+
+    - name: Deploy to GitHub Pages
+      uses: JvLetsBora/github-pages-deploy-action@4.1.5
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: documentation/build
+        CLEAN: true
+      
