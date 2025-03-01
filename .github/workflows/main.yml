@@ -21,7 +21,8 @@ concurrency:
 env:
     NODE_OPTIONS: '--max-old-space-size=6144'
     DOCS_DIR: 'documentation'
-    BUILD_DIR: 'build'
+    BUILD_SOURCE: '${{ env.DOCS_DIR }}/build'
+    BUILD_TARGET: 'public'
 
 jobs:
     deploy-docs:
@@ -43,11 +44,15 @@ jobs:
             - name: Install dependencies and build documentation
               working-directory: ${{ env.DOCS_DIR }}
               run: |
-                  npm ci --production
+                  npm ci
                   npm run build
 
-            - name: Prepare build artifacts
-              run: mv ${{ env.DOCS_DIR }}/build ${{ env.BUILD_DIR }}
+            - name: Verify build output
+              run: |
+                  ls -la ${{ env.BUILD_SOURCE }}
+                  echo "Moving build artifacts..."
+                  mkdir -p ${{ env.BUILD_TARGET }}
+                  cp -r ${{ env.BUILD_SOURCE }}/* ${{ env.BUILD_TARGET }}/
 
             - name: Configure GitHub Pages
               uses: actions/configure-pages@v4
@@ -55,7 +60,8 @@ jobs:
             - name: Upload deployment artifact
               uses: actions/upload-pages-artifact@v3
               with:
-                  path: ${{ env.BUILD_DIR }}
+                  path: ${{ env.BUILD_TARGET }}
+                  retention-days: 1
 
             - name: Deploy to GitHub Pages
               id: deployment
