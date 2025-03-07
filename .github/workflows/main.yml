@@ -43,15 +43,15 @@ jobs:
                 npm ci
                 npm run build
 
-          - name: Prepare build artifacts
-            run: |
-                rm -rf build
-                mv documentation/build ./build
+          # - name: Prepare build artifacts
+          #   run: |
+          #       rm -rf build
+          #       mv documentation/build ./build
 
           - name: Verify build artifacts
             run: |
-              ls -lh build/
-              du -sh build/
+              ls -lh  documentation/build
+              du -sh  documentation/build
 
           - name: Configure GitHub Pages
             uses: actions/configure-pages@v4
@@ -60,10 +60,13 @@ jobs:
             uses: actions/upload-pages-artifact@v3
             with:
                 name: build-artifact
-                path: ./build
+                path:  documentation/build
 
           - name: List build directory
-            run: ls -R ./build
+            run: ls -R  documentation/build
+
+          - name: Listar artefatos disponíveis
+            run: ls -R ${{ runner.temp }}
 
           - name: Deploy to GitHub Pages
             id: deployment
