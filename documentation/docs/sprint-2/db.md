@@ -38,7 +38,7 @@ Neste documento, analisaremos diferentes soluções de banco de dados para o sis
   - **Desempenho e Escalabilidade:** MariaDB inclui melhorias de desempenho sobre o MySQL, especialmente em operações de leitura e escrita de grandes volumes de dados.
   - **Facilidade de Migração:** Devido à sua compatibilidade com MySQL, a migração de MySQL para MariaDB é direta e sem grandes obstáculos técnicos.
 - **Desvantagens:**
-  - **Suporte Comercial:** Embora MariaDB tenha uma versão gratuita robusta, a falta de uma versão paga com suporte comercial pode ser uma limitação para grandes empresas que precisam de suporte corporativo dedicado.
+  - **Suporte Comercial:** Embora MariaDB tenha uma versão gratuita robusta, a falta de uma versão paga com suporte comercial.
 
 ### 4. **SQL Server**
 
@@ -47,7 +47,7 @@ Neste documento, analisaremos diferentes soluções de banco de dados para o sis
   - **Suporte Corporativo:** Excelente para empresas que já utilizam o ecossistema Microsoft, com suporte robusto e integração com outras ferramentas Microsoft.
   - **Recursos Avançados:** Ferramentas de análise de dados e recursos como Business Intelligence (BI) e relatórios avançados.
 - **Desvantagens:**
-  - **Custo:** O SQL Server possui licenciamento proprietário, o que pode ser um fator limitante para empresas de menor porte ou startups.
+  - **Custo:** O SQL Server possui licenciamento proprietário.
   - **Licenciamento Complexo:** O modelo de licenciamento pode ser complexo e dispendioso, especialmente para ambientes de produção em grande escala.
 
 ### 5. **SQLite**
@@ -58,20 +58,13 @@ Neste documento, analisaremos diferentes soluções de banco de dados para o sis
   - **Ideal para Aplicações Locais:** Perfeito para aplicativos locais ou sistemas com baixa demanda de dados.
 - **Desvantagens:**
   - **Escalabilidade Limitada:** Não é adequado para grandes sistemas com alta demanda de leitura e escrita simultânea.
-  - **Falta de Recursos Avançados:** Carece de funcionalidades avançadas que bancos de dados maiores oferecem.
 
 ---
 
 ## Justificativa para a Escolha do Banco de Dados
 
-Após analisar as opções acima, a escolha inicial recaiu sobre **MySQL** pela sua **robustez**, **facilidade de implementação**, e **ampla aceitação** no mercado. MySQL oferece um excelente equilíbrio entre desempenho e escalabilidade para o nosso sistema, com uma vasta gama de ferramentas de suporte e documentação.
+Após analisar as opções acima, a escolha inicial recaiu sobre **MySQL** pela sua **robustez**, **facilidade de implementação** e **ampla aceitação** no mercado. MySQL oferece um excelente equilíbrio entre desempenho e escalabilidade para o sistema, com uma vasta gama de ferramentas de suporte e documentação.
 
-### Considerações sobre o Uso do MariaDB
+### Conclusão
 
 Embora o MySQL seja a escolha ideal para a versão inicial do sistema, estou considerando o uso de **MariaDB** para a versão comercial devido à **licença GPL comercial gratuita**. Isso permite que o sistema seja utilizado por empresas sem custos adicionais com licenciamento, o que pode ser um fator decisivo em termos econômicos. A compatibilidade entre MySQL e MariaDB facilita a migração entre ambos, permitindo que a mudança seja feita de maneira ágil.
-
----
-
-## Conclusão
-
-A escolha do **MySQL** para a implementação inicial do sistema é justificada pela sua robustez, facilidade de uso e suporte a grandes volumes de dados. Para a versão comercial, estou avaliando o uso do **MariaDB** devido à sua licença gratuita para fins comerciais, o que oferece uma vantagem econômica sem comprometer a performance ou a escalabilidade. A transição entre MySQL e MariaDB será tranquila, mantendo a continuidade do serviço.
