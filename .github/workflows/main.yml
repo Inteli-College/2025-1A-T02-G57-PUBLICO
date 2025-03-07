@@ -61,6 +61,9 @@ jobs:
             with:
                 path: build
 
+          - name: List build directory
+            run: ls -R your-build-directory
+
           - name: Deploy to GitHub Pages
             id: deployment
             uses: actions/deploy-pages@v3
