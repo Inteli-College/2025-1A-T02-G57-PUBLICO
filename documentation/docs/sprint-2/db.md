@@ -48,7 +48,7 @@ Neste documento, analisaremos diferentes soluções de banco de dados para o sis
   - **Recursos Avançados:** Ferramentas de análise de dados e recursos como Business Intelligence (BI) e relatórios avançados.
 - **Desvantagens:**
   - **Custo:** O SQL Server possui licenciamento proprietário.
-  - **Licenciamento Complexo:** O modelo de licenciamento pode ser complexo e dispendioso, especialmente para ambientes de produção em grande escala.
+  - **Licenciamento Complexo:** O modelo de licenciamento é complexo e dispendioso.
 
 ### 5. **SQLite**
 
