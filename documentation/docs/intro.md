@@ -85,7 +85,7 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 
 [ **Sprint 2 (Semana 3-4) - Planejamento e Arquitetura** ](/simple_pos/sprint-2/)
 
-- Estruturação da arquitetura do sistema
+- Estruturação inicial da arquitetura do sistema
 - Definição do banco de dados e fluxo de informações
 - Criação da documentação em Docusaurus
 
