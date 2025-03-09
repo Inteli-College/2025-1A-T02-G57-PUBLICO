@@ -1,5 +1,4 @@
 # Arquitetura do Sistema
-Pesquisa de Mercado
 
 
 ## Introdução

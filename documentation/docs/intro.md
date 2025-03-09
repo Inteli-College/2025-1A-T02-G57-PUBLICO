@@ -23,13 +23,13 @@ A solução proposta consiste em um sistema modular que centraliza serviços ess
 
 ## Problemática
 
-Os Microempreendedores Individuais (MEIs) correspondem a 53,4% dos negócios ativos no Brasil, totalizando cerca de 15 milhões de empreendimentos. No entanto, a longevidade desse segmento é comprometida por desafios sistêmicos: 29% encerram suas atividades em até cinco anos, segundo dados do Sebrae. Uma análise detalhada revela quatro eixos críticos que minam a sustentabilidade desses negócios.
+Os Microempreendedores Individuais (MEIs) correspondem a 53,4% dos negócios ativos no Brasil, totalizando cerca de 14,6 milhões de empreendimentos. No entanto, a longevidade desse segmento é comprometida por desafios sistêmicos: 29% encerram suas atividades em até cinco anos, segundo dados do Sebrae. Uma análise detalhada revela quatro eixos críticos que minam a sustentabilidade desses negócios.
 
 **1. Deficiências na Gestão Empresarial** <br></br>
-A ausência de práticas gerencialmente estruturadas é um entrave central. Estudos indicam que 62% dos MEIs não utilizam ferramentas básicas de controle financeiro, como registro de fluxo de caixa ou análise de custos, limitando a visibilidade sobre a saúde econômica do negócio. Além disso, apenas 18% realizam planejamento anual, o que inviabiliza a antecipação de riscos sazonais e a adaptação a flutuações de demanda. Essa lacuna compromete não apenas a rentabilidade, mas também a capacidade de reinvestimento acertivo e crescimento.
+Ausência de estruturadas bem definidas nas práticas gerenciais. Estudos indicam que 62% dos MEIs não utilizam ferramentas básicas de controle financeiro, como registro de fluxo de caixa ou análise de custos, limitando o entendimento sobre a saúde econômica do negócio. Além disso, apenas 18% realizam planejamento anual, o que inviabiliza a antecipação de riscos sazonais e a adaptação a flutuações de demanda. Essa lacuna compromete não apenas a rentabilidade, mas também a capacidade de reinvestimento acertivo e crescimento.
  
 **2. Ineficiência Operacional**  <br></br>
-Processos manuais e desconectados geram custos ocultos. Atualmente, 74% dos microempreendedores gerenciam estoques por meio de anotações físicas ou planilhas não integradas, resultando em erros de precificação, perdas por obsolescência e dificuldade de prever demandas. Paralelamente, atividades burocráticas — como cálculos tributários e emissão de documentos — consomem até 20% da jornada de trabalho, desviando o foco de atividades produtivas e estratégicas.
+Processos manuais e desconectados geram custos ocultos. Atualmente, 34% dos microempreendedores gerenciam estoques por meio de anotações físicas ou planilhas não integradas, resultando em erros de precificação, perdas por obsolescência e dificuldade de prever demandas. Paralelamente, atividades burocráticas — como cálculos tributários e emissão de documentos — consomem até 20% da jornada de trabalho, desviando o foco de atividades produtivas e estratégicas.
 
 **3. Complexidade Burocrática**  <br></br>
 A falta de familiaridade com obrigações legais e a sobrecarga de normas tributárias geram insegurança jurídica. Muitos MEIs enfrentam multas por descumprimento de prazos ou erros em declarações, agravando a pressão financeira. Essa realidade é particularmente crítica em regiões com menor acesso a contadores ou consultorias especializadas, ampliando a vulnerabilidade do negócio.
@@ -91,16 +91,14 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 
 [ **Sprint 3 (Semana 5-6) - Desenvolvimento do Protótipo** ](/simple_pos/sprint-3/)
 
-- Criação de wireframes e fluxos da interface
+- Criação de fluxos da interface
 - Implementação do frontend com React e Electron
-- Estruturação do backend
-- Implementação inicial do cadastro de produtos e recurso de vendas
+- Validação inicial da experiência do usuário (UX)
 - Publicação da documentação
 
 [ **Sprint 4 (Semana 7-8) - Integração e Testes** ](/simple_pos/sprint-4/)
 
-- Validação inicial da experiência do usuário (UX)
-- Conexão entre frontend e backend
+- Estruturação do backend
 - Testes de usabilidade e ajustes na interface
 - Implementação de relatórios e exportação de dados
 - Simulação de uso por microempreendedores
@@ -109,5 +107,4 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 
 - Otimização de performance e correção de bugs
 - Ajustes finais na experiência do usuário
-- Elaboração de documentação e materiais de suporte
-- Preparação da apresentação e defesa do projeto
+- Elaboração de materiais de suporte
