@@ -89,9 +89,7 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 [ **Sprint 3 (Semana 5-6) - Desenvolvimento do Protótipo** ](/simple_pos/sprint-3/)
 
 - Criação de fluxos da interface
-- Implementação do frontend com React e Electron
-- Validação inicial da experiência do usuário (UX)
-- Publicação da documentação
+
 
 [ **Sprint 4 (Semana 7-8) - Integração e Testes** ](/simple_pos/sprint-4/)
 
