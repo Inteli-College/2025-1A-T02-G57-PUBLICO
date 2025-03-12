@@ -27,7 +27,7 @@ Para que eu possa registrar vendas e gerenciar pagamentos.
 **Visualização de Relatórios de Caixa**<br></br>
 Como gerente
 Quero visualizar relatórios de caixa
-Para que eu possa acompanhar o fluxo financeiro e fazer auditorias.
+Para que eu possa fazer auditorias.
 
 **Visualização de Relatórios de Produtos**<br></br>
 Como administrador
