@@ -33,7 +33,7 @@ Atividades burocráticas — como cálculos tributários e emissão de documento
 A maioria dos microempreendedores (53%) opera sem estratégias claras de diferenciação: não segmentam clientes, não analisam a concorrência e não monitoram tendências de mercado. Essa limitação reduz a capacidade de adaptação, posicionando os negócios em desvantagem frente a players organizados.
 
 **Referências:**<br></br>
-- [Boletim Mapa de Empresas do Governo Federal, 2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-2o-quadrimestre-2024.pdf)<br></br>
+- [Boletim Mapa de Empresas do Governo Federal, 2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-2o-quadrimestre-2024.pdf)
 - [SEBRAE: Brasil tem quase 15 milhões de microempreendedores individuais](https://sebrae.com.br/sites/PortalSebrae/artigos/brasil-tem-quase-15-milhoes-de-microempreendedores-individuais,e538151eea156810VgnVCM1000001b00320aRCRD)
 - [SEBRAE: Sobrevivência das empresas](https://sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/sobrevivencia-das-empresas-no-brasil-102016.pdf)
 
@@ -66,6 +66,14 @@ Criar uma interface amigável, com suporte a tutoriais e cartões explicativos, 
 - Disponibilizar planos acessíveis para diferentes perfis de usuários, desde uma versão gratuita até pacotes premium.
 Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilidade financeira.
 
+## Descrição das Funcionalidades Principais
+O sistema oferecerá funcionalidades essenciais para otimizar a operação diária de pequenos negócios, com ferramentas simples e eficazes para melhorar a gestão. As principais funcionalidades incluem:
+
+- **Gestão Financeira:** O módulo de controle financeiro permitirá que os usuários acompanhem facilmente o fluxo de caixa, categorizem receitas e despesas, e monitorem a saúde financeira do negócio. A plataforma também permitirá a emissão de relatórios financeiros e contará com alertas para períodos de baixa de caixa ou pagamentos pendentes, evitando surpresas no fechamento do mês.
+
+- **Cadastro de Produtos e Controle de Estoque:** Os usuários poderão registrar produtos e serviços, gerenciar o estoque e definir parâmetros como preço de venda e custo. O sistema monitorará os níveis de estoque em tempo real, com alertas automáticos para produtos abaixo do estoque mínimo, ajudando a evitar rupturas. Também serão disponibilizados relatórios de inventário para facilitar auditorias e ajustes.
+
+- **Relatórios e Análises:** A plataforma fornecerá relatórios detalhados sobre o desempenho do negócio, incluindo faturamento, despesas e margem de lucro, com opção de exportação para formatos como CSV. Também serão apresentados gráficos e métricas-chave, como taxa de crescimento de vendas e distribuição de receitas, para apoiar a tomada de decisões estratégicas.
 
 ## Cronograma de Trabalho
 ### Módulo 1 - Estruturação e Prototipação
@@ -73,9 +81,8 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 **Sprint 1 (Semana 1-2) - Pesquisa e Documentação**
 
 - Levantamento de problemática e justificativa
-- Análise de mercado e referências (SEBRAE, Mapa de Empresas)
-- Definição das funcionalidades principais
 - Elaboração do Resumo Executivo e Objetivos do Negócio
+- Definição das funcionalidades principais
 
 [ **Sprint 2 (Semana 3-4) - Planejamento e Arquitetura** ](./sprint-2/)
 
@@ -85,10 +92,9 @@ Monetizar por meio de assinaturas e parcerias estratégicas, garantindo viabilid
 
 [ **Sprint 3 (Semana 5-6) - Desenvolvimento do Protótipo** ](./sprint-3/)
 
-- Criação de fluxos da interface
 - Revisão do conograma
 - Prótotipo de interface
-
+- Criação de fluxos da interface
 
 [ **Sprint 4 (Semana 7-8) - Integração e Testes** ](./sprint-4/)
 

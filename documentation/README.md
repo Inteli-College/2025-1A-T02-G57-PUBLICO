@@ -1,41 +1,33 @@
-# Website
+# Documentação do Projeto  
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este repositório contém a documentação do projeto **2025-1A-T02-G57-PUBLICO**, gerada utilizando o **Docusaurus**.  
 
-### Installation
+A documentação está organizada por sprints dentro do diretório `docs`, permitindo acompanhar a evolução do projeto ao longo do tempo.  
 
-```
-$ yarn
-```
+## 📖 Acessando a Documentação  
 
-### Local Development
+A documentação pode ser acessada online pelo seguinte link:  
 
-```
-$ yarn start
-```
+🔗 [Acesse a documentação](https://inteli-college.github.io/2025-1A-T02-G57-PUBLICO/simple_pos/)  
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🚀 Como Rodar Localmente  
 
-### Build
+Se deseja visualizar a documentação localmente, siga os passos abaixo:  
 
-```
-$ yarn build
-```
+### 1️⃣ Instale as dependências  
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Certifique-se de ter o **Node.js** instalado. Em seguida, execute:  
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```sh
+npm i
 ```
 
-Not using SSH:
+### 2️⃣ Inicie o servidor de desenvolvimento
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+Para visualizar a documentação localmente, execute: 
+
+```sh
+npm run start
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Isso iniciará um servidor local e a documentação poderá ser acessada no navegador pelo endereço: http://localhost:3000/
