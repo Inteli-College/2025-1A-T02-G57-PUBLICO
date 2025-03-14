@@ -1,6 +1,11 @@
 # 2025-1A-T02-G57-PUBLICO
 Repository for group 57 of class T02 (2025/1A)
 
+Versions:
+- [Em português](#-en-eua-)
+- [in english](#-pt-br-)
+
+
 # [ PT-BR ]
 
 **Publicado por:**  
