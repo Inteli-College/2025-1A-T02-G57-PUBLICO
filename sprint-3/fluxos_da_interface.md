@@ -1,9 +1,8 @@
 # Fluxo da Interface
 
-
 ## Introdução
 
-Esta seção apresenta os fluxos da interface, correlacionando-os com as user stories e destacando decisões pontuais de design e usabilidade.
+Esta seção apresenta os fluxos da interface, correlacionando-os com as user stories.
 
 ### Tutorial
 ``` 
@@ -84,7 +83,3 @@ Apresentação do fluxo [ Visualização de Relatórios de Produtos ](https://em
 Esse material pode ser visto na integra pelo link a seguir: [ Visualização de Relatórios de Produtos - FIGMA](https://www.figma.com/design/LTdDVyRKmTS6IJDwmCv2yR/TCC---Fluxo-da-Interface?node-id=1-5&t=I6Awyf7rK4PZFQZ8-1)
 
 ---
-
-## Design e Usabilidade
-
-## Conclusão
