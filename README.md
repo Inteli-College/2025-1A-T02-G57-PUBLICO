@@ -2,8 +2,8 @@
 Repository for group 57 of class T02 (2025/1A)
 
 Versions:
-- [Em português](#-en-eua-)
-- [in english](#-pt-br-)
+- [Em português](#-pt-br-)
+- [in english](#-en-us-)
 
 
 # [ PT-BR ]
@@ -117,9 +117,15 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 - Elaboração de materiais de suporte
 
 
+---
+
+<br></br>
+<br></br>
+<br></br>
 
 
-# [ EN-EUA ]
+
+# [ EN-US ]
 
 **Published by:**  
 João Vitor Oliveira Rodrigues  
