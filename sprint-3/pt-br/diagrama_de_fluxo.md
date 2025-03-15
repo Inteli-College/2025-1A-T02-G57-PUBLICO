@@ -51,13 +51,13 @@ Agora, vamos detalhar cada um dos processos identificados no **Nível 0** para m
 - **Saídas**: O grupo é armazenado na **Base de Dados de Grupos**.
 
 ### **Cadastro de Produtos**:
-- **Entradas**: Dados inseridos pelo administrador (nome, código, preço, grupo, estoque, etc.).
+- **Entradas**: Dados inseridos pelo administrador (nome, código, é adicional?, grupo, preço, custo, estoque atual e estoque mínimo).
 - **Processo**: O administrador cadastra um novo produto.
 - **Saídas**: O produto é armazenado na **Base de Dados de Produtos**.
 
 ### **Abertura de Caixa**:
-- **Entradas**: Dados do operador de caixa (início da operação de caixa).
-- **Processo**: O operador de caixa inicia uma nova venda ou operação.
+- **Entradas**: Dados do operador de caixa ( seleção de um grupo de produtos, nome, localização, senha, taxa, forma de pagamento e total pago ).
+- **Processo**: O operador de caixa registra uma nova venda.
 - **Saídas**: A transação é registrada na **Base de Dados de Vendas e Caixa**.
 
 ### **Visualização de Relatórios de Caixa**:
