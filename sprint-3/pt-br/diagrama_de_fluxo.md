@@ -21,7 +21,7 @@ Para a visualização gráfica do fluxo a seguir acesse o link: [Diagrama de flu
 - **Cadastro de Produtos**: O administrador cadastra produtos.
 - **Abertura de Caixa**: O operador de caixa acessa a tela para registrar vendas e gerenciar pagamentos.
 - **Visualização de Relatórios de Caixa**: O gerente visualiza relatórios de caixa.
-- **Visualização de Relatórios de Produtos**: O administrador visualiza relatórios de produtos.
+- **Visualização de Relatórios de Produtos**: O gerente visualiza relatórios de produtos.
 
 #### **Armazenamentos de Dados**:
 - **Base de Dados de Grupos**: Armazena os dados dos grupos de produtos cadastrados.
