@@ -8,7 +8,7 @@ Versions:
 
 ## Introdução
 
-Nesta sprint, o foco foi nas etapas essenciais para a concepção e estruturação do projeto, com ênfase na experiência do usuário e no fluxo de interação. O objetivo principal foi consolidar a jornada do usuário, por meio da definição da persona, mapeamento de processos e prototipação da interface.
+Nesta sprint, o foco foi na concepção e estruturação do projeto, com ênfase na experiência do usuário e no fluxo de interação. O objetivo principal foi consolidar a jornada do usuário, por meio da definição da persona, mapeamento de processos e prototipação da interface.
 
 Os tópicos abordados nesta fase estão detalhados em documentos específicos, conforme descrito abaixo:
 
@@ -18,9 +18,6 @@ Os tópicos abordados nesta fase estão detalhados em documentos específicos, c
 - **Protótipo de Alta Fidelidade**: [Desenvolvimento de uma representação visual avançada da interface](./pt-br/prototipo_alta_fidelidade.md).
 
 Cada um desses tópicos é um link para os respectivos documentos, onde detalho os processos e as decisões tomadas ao longo da sprint. Eles servirão como base para as próximas etapas do projeto.
-
-
-
 
 
 

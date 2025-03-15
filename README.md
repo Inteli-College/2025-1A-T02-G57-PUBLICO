@@ -32,9 +32,14 @@ Os Microempreendedores Individuais (MEIs) correspondem a 53,4% dos negócios ati
 **1. Deficiências na Gestão Empresarial** <br></br>
 Ausência de estruturadas bem definidas nas práticas gerenciais. Estudos indicam que 62% dos MEIs não utilizam ferramentas básicas de controle financeiro, como registro de fluxo de caixa ou análise de custos, limitando o entendimento sobre a saúde econômica do negócio. Além disso, apenas 18% realizam planejamento anual, o que inviabiliza a antecipação de riscos sazonais e a adaptação a flutuações de demanda. Essa lacuna compromete não apenas a rentabilidade, mas também a capacidade de reinvestimento acertivo e crescimento.
  
+<br></br>
+<br></br>
+
 **2. Complexidade Burocrática**  <br></br>
 Atividades burocráticas — como cálculos tributários e emissão de documentos — consomem até 20% da jornada de trabalho, desviando o foco de atividades produtivas e estratégicas. A falta de familiaridade com obrigações legais e a sobrecarga de normas tributárias geram insegurança jurídica. Pequenas empresas acabam enfrentando multas por descumprimento de prazos ou erros em declarações, agravando a pressão financeira.
 
+<br></br>
+<br></br>
 
 **3. Fragilidade Competitiva**  <br></br>
 A maioria dos microempreendedores (53%) opera sem estratégias claras de diferenciação: não segmentam clientes, não analisam a concorrência e não monitoram tendências de mercado. Essa limitação reduz a capacidade de adaptação, posicionando os negócios em desvantagem frente a players organizados.
