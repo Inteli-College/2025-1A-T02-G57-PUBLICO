@@ -3,7 +3,7 @@
 ## Introdução
 Este documento apresenta o Diagrama de Fluxo do sistema, com o objetivo de ilustrar de forma visual e clara os principais processos e interações dos usuários. 
 
-Esse diagrama também possui sua forma interativa disponibilizada por esse link: [Diagrama de fluxo - FIGMA](https://www.figma.com/design/LTdDVyRKmTS6IJDwmCv2yR/TCC---Fluxo-da-Interface?node-id=496-428&t=kMmpALYRFgWz5jDM-1).
+Para a visualização acesso o link a seguir: [Diagrama de fluxo - FIGMA](https://www.figma.com/design/LTdDVyRKmTS6IJDwmCv2yR/TCC---Fluxo-da-Interface?node-id=496-428&t=kMmpALYRFgWz5jDM-1).
 
 
 ## DFD - Nível 0 (Visão Geral)

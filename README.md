@@ -40,7 +40,7 @@ Atividades burocráticas — como cálculos tributários e emissão de documento
 **3. Fragilidade Competitiva**  <br></br>
 A maioria dos microempreendedores (53%) opera sem estratégias claras de diferenciação: não segmentam clientes, não analisam a concorrência e não monitoram tendências de mercado. Essa limitação reduz a capacidade de adaptação, posicionando os negócios em desvantagem frente a players organizados.
 
-**Referências:**<br></br>
+**Referências:**
 - [Boletim Mapa de Empresas do Governo Federal, 2024](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-2o-quadrimestre-2024.pdf)
 - [SEBRAE: Brasil tem quase 15 milhões de microempreendedores individuais](https://sebrae.com.br/sites/PortalSebrae/artigos/brasil-tem-quase-15-milhoes-de-microempreendedores-individuais,e538151eea156810VgnVCM1000001b00320aRCRD)
 - [SEBRAE: Sobrevivência das empresas](https://sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/sobrevivencia-das-empresas-no-brasil-102016.pdf)
