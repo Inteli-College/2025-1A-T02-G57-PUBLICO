@@ -61,14 +61,14 @@ Agora, vamos detalhar cada um dos processos identificados no **Nível 0** para m
 - **Saídas**: A transação é registrada na **Base de Dados de Vendas e Caixa**.
 
 ### **Visualização de Relatórios de Caixa**:
-- **Entradas**: Solicitação do gerente para visualizar relatórios.
-- **Processo**: O sistema gera relatórios baseados nas transações registradas.
-- **Saídas**: Relatório de caixa gerado e apresentado ao gerente.
+- **Entradas**: Dados inseridos pelo gerente ( data da consulta ).
+- **Processo**: O sistema gera relatórios baseados nas transações registradas na data expecificada.
+- **Saídas**: Relatório de caixa é gerado.
 
 ### **Visualização de Relatórios de Produtos**:
-- **Entradas**: Solicitação do administrador para visualizar relatórios de produtos.
-- **Processo**: O sistema gera relatórios baseados nas informações de vendas e estoque de produtos.
-- **Saídas**: Relatório de produtos gerado e apresentado ao administrador.
+- **Entradas**: Dados inseridos pelo gerente ( data da consulta ).
+- **Processo**: O sistema gera relatórios baseados nas transações registradas na data expecificada.
+- **Saídas**: Relatório de produtos é gerado.
 
 ```
 [Administrador] --> [Cadastro de Grupos] --> [Base de Dados de Grupos]
