@@ -22,12 +22,14 @@ João Vitor Oliveira Rodrigues
 
 ## Resumo Executivo
 
-A solução proposta consiste em um sistema modular que centraliza serviços essenciais para a operação de pequenos negócios, como controle de estoque em tempo real, registro automatizado de vendas e disponibilização de métricas financeiras. A integração dessas ferramentas busca substituir processos manuais e fragmentados – hoje majoritariamente realizados em planilhas ou anotações físicas – por um sistema intuitivo e acessível. A eficácia do modelo fundamenta-se na correlação direta entre gestão profissionalizada e longevidade empresarial, alinhando-se às demandas identificadas com base em [estudos do SEBRAE](https://sebrae.com.br/sites/PortalSebrae/artigos/a-taxa-de-sobrevivencia-das-empresas-no-brasil,d5147a3a415f5810VgnVCM1000001b00320aRCRD).
+A solução proposta é um sistema modular que centraliza serviços essenciais para a operação de pequenos negócios, como controle de estoque em tempo real, registro automatizado de vendas e disponibilização de métricas financeiras. A integração dessas ferramentas visa substituir processos manuais e fragmentados – atualmente realizados, em sua maioria, por meio de planilhas ou anotações físicas – por um sistema intuitivo e acessível. A eficácia do modelo baseia-se no conjunto de desafios identificados pelo estudo [Fatores que contribuíram para o fechamento dos negócios](https://sebrae.com.br/sites/PortalSebrae/artigos/a-taxa-de-sobrevivencia-das-empresas-no-brasil,d5147a3a415f5810VgnVCM1000001b00320aRCRD), realizado pelo SEBRAE, que correlaciona diretamente a falta de uma gestão profissionalizada com a longevidade do negócio.
+
+
 
 
 ## Problemática
 
-Os Microempreendedores Individuais (MEIs) correspondem a 53,4% dos negócios ativos no Brasil, totalizando cerca de 14,6 milhões de empreendimentos. No entanto, a longevidade desse segmento é comprometida por desafios sistêmicos: 29% encerram suas atividades em até cinco anos, segundo dados do Sebrae. Uma análise detalhada revela quatro eixos críticos que minam a sustentabilidade desses negócios.
+Os Microempreendedores Individuais (MEIs) correspondem a 53,4% dos negócios ativos no Brasil, totalizando cerca de 14,6 milhões de empreendimentos. No entanto, a longevidade desse segmento é comprometida por desafios sistêmicos: 29% encerram suas atividades em até cinco anos. Uma análise detalhada revela quatro eixos críticos que minam a sustentabilidade desses negócios.
 
 **1. Deficiências na Gestão Empresarial** <br></br>
 Ausência de estruturadas bem definidas nas práticas gerenciais. Estudos indicam que 62% dos MEIs não utilizam ferramentas básicas de controle financeiro, como registro de fluxo de caixa ou análise de custos, limitando o entendimento sobre a saúde econômica do negócio. Além disso, apenas 18% realizam planejamento anual, o que inviabiliza a antecipação de riscos sazonais e a adaptação a flutuações de demanda. Essa lacuna compromete não apenas a rentabilidade, mas também a capacidade de reinvestimento acertivo e crescimento.
@@ -81,7 +83,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 
 - **Cadastro de Produtos e Controle de Estoque:** Os usuários poderão registrar produtos e serviços, gerenciar o estoque e definir parâmetros como preço de venda e custo. O sistema monitorará os níveis de estoque em tempo real, com alertas automáticos para produtos abaixo do estoque mínimo, ajudando a evitar rupturas. Também serão disponibilizados relatórios de inventário para facilitar auditorias e ajustes.
 
-- **Relatórios e Análises:** A plataforma fornecerá relatórios detalhados sobre o desempenho do negócio, incluindo faturamento, despesas e margem de lucro, com opção de exportação para formatos como CSV. Também serão apresentados gráficos e métricas-chave, como taxa de crescimento de vendas e distribuição de receitas, para apoiar a tomada de decisões estratégicas.
+- **Relatórios e Análises:** A plataforma fornecerá relatórios detalhados sobre o desempenho do negócio, incluindo faturamento, despesas e margem de lucro, com opção de exportação para formatos como CSV e PDF. Também serão apresentados gráficos e métricas-chave, como taxa de crescimento de vendas e distribuição de receitas, para apoiar a tomada de decisões estratégicas.
 
 ## Cronograma de Trabalho
 ### Módulo 1 - Estruturação e Prototipação
@@ -106,10 +108,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 
 [ **Sprint 4 (Semana 7-8) - Integração e Testes** ](./sprint-4/)
 
-- Estruturação do backend
-- Testes de usabilidade e ajustes na interface
-- Implementação de relatórios e exportação de dados
-- Simulação de uso por microempreendedores
+- Extruturação do Market Validation
 
 [ **Sprint 5 (Semana 9-10) - Refino e Apresentação** ](./sprint-5/)
 
