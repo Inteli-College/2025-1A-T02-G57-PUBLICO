@@ -51,8 +51,8 @@ Este diagrama mostra a dependência entre as ferramentas do sistema.
 ### **PDV**
 - **Cadastro de Produtos** depende do **Cadastro de Grupos**.
 - **Registro de Vendas** depende do **Cadastro de Produtos**.
-- **Relatório do Caixa** está ligado ao **Registro de Vendas**.
-- **Relatório de Produto** está ligado ao **Cadastro de Produtos**.
+- **Relatório do Caixa** depende do **Registro de Vendas**.
+- **Relatório de Produto** depende do **Cadastro de Produtos**.
 
 ![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20PDV.png)
 
@@ -71,9 +71,13 @@ Este diagrama mostra a dependência entre as ferramentas do sistema.
 
 ## 4. Conexões Entre Domínios
 Este diagrama apresenta as conexões entre diferentes domínios do sistema:
-- **Ferramenta Cadastro de Cupons** está conectada por uma linha tracejada ao **Registro de Vendas**.
+- **Ferramenta Cadastro de Cupons** está conectada ao **Registro de Vendas**.
 - **Registro de Vendas** está ligado ao **Fluxo de Caixa**.
 - **Registro de Vendas** está conectado ao **Gerenciamento de Fidelização**.
 
 ![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Conexões%20Entre%20Domínios.png)
 
+
+## Conclusão
+
+Após analisar os diagramas, ficou claro que cada domínio é independente em suas tarefas principais, e a interação entre eles aprimora a performance do sistema. Esse entendimento guiará o modelo de monetização, oferecendo planos que permitem o acesso a cada domínio de forma separada, limitando também planos gratuitos ao acesso de um único domínio e suas ferramentas principais.
