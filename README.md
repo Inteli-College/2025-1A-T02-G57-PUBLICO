@@ -106,15 +106,14 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 - Prótotipo de interface
 - Criação de fluxos da interface
 
-[ **Sprint 4 (Semana 7-8) - Integração e Testes** ](./sprint-4/)
+[ **Sprint 4 (Semana 7-8) - Planejamento Estratégico** ](./sprint-4/)
+
+- Diagrama de Soluções
+- Modelo de Monetização
+
+[ **Sprint 5 (Semana 9-10) - Preparação para Go To Market** ](./sprint-5/)
 
 - Extruturação do Market Validation
-
-[ **Sprint 5 (Semana 9-10) - Refino e Apresentação** ](./sprint-5/)
-
-- Otimização de performance e correção de bugs
-- Ajustes finais na experiência do usuário
-- Elaboração de materiais de suporte
 
 
 ---
