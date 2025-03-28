@@ -94,7 +94,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 - Elaboração do Resumo Executivo e Objetivos do Negócio
 - Definição das funcionalidades principais
 
-[ **Sprint 2 (Semana 3-4) - Planejamento e Arquitetura** ](./sprint-2/)
+[ **Sprint 2 (Semana 3-4) - Planejamento e Técnico** ](./sprint-2/)
 
 - Estruturação inicial da arquitetura do sistema
 - Definição do banco de dados e fluxo de informações
