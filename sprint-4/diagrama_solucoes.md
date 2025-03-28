@@ -32,6 +32,8 @@ A legenda define a simbologia usada nos diagramas:
 - **Dependência**: Indicada por uma seta branca conectando módulos.
 - **Conexão**: Indicada por uma seta pontilhada conectando módulos.
 
+![Legenda](../documentation/static/img/diagrama_solucoes/Legenda.png)
+
 ## 2. Diagrama de Soluções - Domínios e Ferramentas
 Este diagrama apresenta os módulos principais do sistema, organizados em três grandes categorias:
 
@@ -76,11 +78,6 @@ Este diagrama apresenta as conexões entre diferentes domínios do sistema:
 - **Ferramenta Cadastro de Cupons** está conectada por uma linha tracejada ao **Registro de Vendas**.
 - **Registro de Vendas** está ligado ao **Fluxo de Caixa**.
 - **Registro de Vendas** está conectado ao **Gerenciamento de Fidelização**.
-
-## Conclusão
-Os diagramas apresentados ajudam a visualizar a estrutura da aplicação, organizando os domínios e suas dependências. Essa documentação facilita a compreensão do sistema e auxilia no desenvolvimento e manutenção dos módulos.
-
-
 
 ## Conclusão
 A melhoria da gestão dos MEIs exige uma abordagem estratégica, combinando tecnologia, capacitação e automação. As soluções apresentadas visam minimizar erros operacionais, aumentar a competitividade e garantir o crescimento sustentável do negócio. Com ferramentas acessíveis e eficientes, os microempreendedores podem evoluir para empresas de maior porte, fortalecendo sua posição no mercado.
