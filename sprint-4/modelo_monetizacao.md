@@ -1,25 +1,22 @@
-# Plano de Monetização para MEIs em Crescimento  
+# Plano de Monetização
 
 ---
 
 ## Introdução  
-Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação **Diagrama de Soluções**, que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
+Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação [**Diagrama de Soluções**](/sprint-4/diagrama_solucoes.md), que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
 
 A estrutura modular dos domínios, combinada com a hierarquia de ferramentas principais/secundárias e conexões cruzadas (ex: Registro de Vendas → Fluxo de Caixa), permite a criação de planos escaláveis que acompanham o crescimento progressivo de um MEI, desde a fase inicial até a maturidade operacional.  
 
-**[🔗 Acesse o Diagrama de Soluções no Figma](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=8-4&p=f&t=XdYzO5pRCfeSlNEh-0)**  
-
 ---
 
-## Estratificação de Planos por Domínio  
+## Planos por Domínio  
 
-| Plano         | Domínios Incluídos               | Ferramentas Acessíveis                            | Preço (Sugestão) | Limitações                           |  
-|---------------|-----------------------------------|---------------------------------------------------|------------------|---------------------------------------|  
-| **Grátis**    | 1 Domínio (Escolha do usuário)   | Ferramentas **Principais** do domínio escolhido   | R$ 0/mês         | - PDV: 50 produtos<br>- Finanças: 5 transações/mês<br>- Clientes: 20 cadastros |  
-| **Básico**    | 1 Domínio + Conexões Básicas     | Todas ferramentas do domínio                      | R$ 49,90/mês     | Sem relatórios cruzados               |  
-| **Integrado** | 2 Domínios + Conexões Avançadas  | Ferramentas principais + secundárias + integração | R$ 89,90/mês     | Máx. 3 usuários                      |  
-| **Premium**   | Todos Domínios + Automações      | Funcionalidades premium + suporte prioritário     | R$ 149,90/mês    | Personalização limitada               |  
-
+| Plano         | Domínios Incluídos       | Conexões           | Ferramentas                                  | Recursos Adicionais                  | Limitações                           | Preço (Sugestão)  |  
+|---------------|--------------------------|--------------------|----------------------------------------------|---------------------------------------|---------------------------------------|-------------------|  
+| **Grátis**    | 1 (Escolha do usuário)   | -                  | Ferramentas **principais** do domínio        | -                                     | - PDV/Finanças: 500 transações/mês<br>- Máx. 20 clientes cadastrados | **R$ 0/mês**      |  
+| **Básico**    | 1                        | Conexões básicas   | Todas as ferramentas do domínio              | -                                     | - Relatórios cruzados não disponíveis | **R$ 49,90/mês**  |  
+| **Integrado** | Todos os domínios        | Conexões avançadas | Ferramentas principais, secundárias<br>e integrações | -                                     | - Máximo de **4 usuários** ativos     | **R$ 69,90/mês**  |  
+| **Premium**   | Todos os domínios        | Automações         | Funcionalidades premium                      | - Armazenamento em nuvem<br>- Suporte prioritário | - Personalização limitada            | **R$ 149,90/mês** |  
 ---
 
 ## Lógica de Monetização Baseada em Dependências  
