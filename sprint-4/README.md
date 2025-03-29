@@ -23,15 +23,15 @@ Cada um desses tópicos é um link para os respectivos documentos, onde detalho 
 
 # [ en-us ]
 
-## Introduction
+## Introduction  
 
-In this sprint, the focus was on the essential steps for the conception and structuring of the project, with an emphasis on user experience and interaction flow. The main objective was to consolidate the user journey through the definition of the persona, process mapping, and interface prototyping.
+In this sprint, the focus was on structuring solutions and creating a monetization plan.  
 
-The topics covered in this phase are detailed in specific documents, as described below:
+The topics covered in this phase are detailed in specific documents, as described below:  
 
-- **Persona**: [Definition of the target user profile, including their needs, pain points, and expectations regarding the product](./en-us/persona.md).
-- **Flow Diagram**: [Visual representation of the processes and paths followed by the user within the system](./en-us/flow_diagram.md).
-- **High-Fidelity Prototype**: [Development of an advanced visual representation of the interface](./en-us/high-fidelity-prototype.md).
-- **Interface Flows**: [Structuring of the user's interactions with the interface, displaying an interactive navigation](./en-us/interface_flows.md).
+- [**Solution Diagram**](./en/solution_diagram.md)  
 
-Each of these topics is a link to the respective documents, where I detail the processes and decisions made throughout the sprint. They will serve as the foundation for the next stages of the project.
+- [**Monetization Model**](./en/monetization_plan.md).  
+
+Each of these topics is a link to the respective documents, where I detail the processes and decisions made throughout the sprint. They will serve as a foundation for the next stages of the project.  
+
