@@ -27,15 +27,7 @@ A estrutura modular dos domínios, combinada com a hierarquia de ferramentas pri
 
 ### 2. **Monetização de Ferramentas Secundárias**  
 - **Relatórios (DRE, Relatório de Caixa):** Disponível apenas em planos pagos, com argumento de "controle financeiro estratégico".  
-- **Automações:** Ex: Reconciliação automática de **Contas a Pagar/Receber** (dependência do Fluxo de Caixa) como diferencial do **Premium**.  
-
----
-
-## Modelo Híbrido (Assinatura + Transacional)  
-| Recurso                  | Descrição                                                                 | Preço                |  
-|--------------------------|---------------------------------------------------------------------------|----------------------|  
-| **Taxa por Cupom Externo** | Integração com marketplaces (ex.: ifood) via **Cadastro de Cupons**       | 1% do valor da venda |  
-| **White Label**           | Personalização da plataforma com marca do cliente (**Clientes → PDV**)    | R$ 299,90/mês        |  
+- **Automações**: Painel exclusivo que aproveita os dados produzidos pelos domínios e permite criar automações personalizadas com base nessas informações. ( Indicador do **Fluxo de Caixa** controla porcentagem dos cupons do **Gerenciamento de Fidelização** ) **Premium**.
 
 ---
 
@@ -48,8 +40,8 @@ A estrutura modular dos domínios, combinada com a hierarquia de ferramentas pri
 ## Roadmap Futuro  
 | Módulo                  | Descrição                                                                 | Lançamento Previsto |  
 |-------------------------|---------------------------------------------------------------------------|---------------------|  
-| **E-commerce Integrado**| Expansão do **PDV** para vendas online (dependência do **Cadastro de Produtos**) | Q2 2025            |  
-| **Consultoria Financeira** | Análises personalizadas baseadas em **DRE** e **Fluxo de Caixa**         | Q3 2025            |  
+| **E-commerce Integrado**| Expansão do **PDV** para vendas online (dependência do **Cadastro de Produtos**) | 05/2025            |  
+| **Consultoria Financeira** | Análises personalizadas baseadas em **DRE** e **Fluxo de Caixa**         | 09/2025            |  
 
 ---
 
