@@ -14,7 +14,7 @@ A legenda define a simbologia usada nos diagramas:
 - **Dependência**: Indicada por uma seta branca conectando módulos, sendo dependênte o módulo de onde a seta parte.
 - **Conexão**: Indicada por uma seta pontilhada conectando módulos. Essa conexão é dada pelo envio de informação, partindo da origem da seta.
 
-![Legenda](../documentation/static/img/diagrama_solucoes/Legenda.png)
+![Legenda](../../documentation/static/img/diagrama_solucoes/Legenda.png)
 
 
 ## 2. Domínios e Ferramentas
@@ -42,7 +42,7 @@ Foca no fortalecimento do relacionamento com os clientes, utilizando as seguinte
 - **Gerenciamento de Fidelização**
 - **Acompanhamento do Cliente** (Ferramenta Secundária)
 
-![Domínios e Ferramentas](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Domínios%20e%20Ferramentas.png)
+![Domínios e Ferramentas](../../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Domínios%20e%20Ferramentas.png)
 
 
 ## 3. Dependências
@@ -54,19 +54,19 @@ Este diagrama mostra a dependência entre as ferramentas do sistema.
 - **Relatório do Caixa** depende do **Registro de Vendas**.
 - **Relatório de Produto** depende do **Cadastro de Produtos**.
 
-![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20PDV.png)
+![Dependências](../../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20PDV.png)
 
 ### **Finanças**
 - **Fluxo de Caixa** depende de **Contas a Pagar** e **Contas a Receber**.
 - **DRE** depende do **Fluxo de Caixa**.
 
-![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20Finanças.png)
+![Dependências](../../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20Finanças.png)
 
 ### **Clientes**
 - **Gerenciamento de Fidelização** depende do **Cadastro de Clientes** e do **Cadastro de Cupons**.
 - **Acompanhamento do Cliente** depende do **Gerenciamento de Fidelização**.
 
-![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20Clientes.png)
+![Dependências](../../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Depêndecias%20_%20Clientes.png)
 
 
 ## 4. Conexões Entre Domínios
@@ -75,7 +75,7 @@ Este diagrama apresenta as conexões entre diferentes domínios do sistema:
 - **Registro de Vendas** está ligado ao **Fluxo de Caixa**.
 - **Registro de Vendas** está conectado ao **Gerenciamento de Fidelização**.
 
-![Dependências](../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Conexões%20Entre%20Domínios.png)
+![Dependências](../../documentation/static/img/diagrama_solucoes/Diagrama%20de%20Soluções%20-%20Conexões%20Entre%20Domínios.png)
 
 
 ## Conclusão

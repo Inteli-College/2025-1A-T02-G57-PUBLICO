@@ -3,7 +3,7 @@
 ---
 
 ## Introdução  
-Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação [**Diagrama de Soluções**](/sprint-4/diagrama_solucoes.md), que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
+Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação [**Diagrama de Soluções**](/sprint-4/pt-br/diagrama_solucoes.md), que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
 
 A estrutura modular dos domínios, combinada com a hierarquia de ferramentas principais/secundárias e conexões cruzadas (ex: Registro de Vendas → Fluxo de Caixa), permite a criação de planos escaláveis que acompanham o crescimento progressivo de um MEI, desde a fase inicial até a maturidade operacional.  
 
