@@ -1,23 +1,65 @@
-## Introdução
-Os Microempreendedores Individuais (MEIs) representam a maioria dos negócios ativos no Brasil, mas enfrentam desafios que comprometem sua longevidade. A falta de uma gestão eficiente impacta diretamente a sustentabilidade e o crescimento desses negócios. Esta documentação apresenta soluções práticas para otimizar a gestão dos MEIs, apoiando sua transição para empresas de maior porte.
+# Plano de Monetização para MEIs em Crescimento  
 
-## Tabela de Soluções para Gestão
-A tabela a seguir apresenta soluções estratégicas para aprimorar a gestão dos MEIs, detalhando suas funcionalidades e níveis de dificuldade de implementação.
+---
 
-| **Solução** | **Descrição** | **Nível de Dificuldade** |
-|-------------|--------------|-------------------------|
-| **Automação Financeira** | Ferramentas que automatizam controle de fluxo de caixa, categorização de despesas e geração de relatórios. | Médio |
-| **Gestão de Estoque Inteligente** | Monitoramento de níveis de estoque em tempo real, alertas automáticos e integração com pedidos de reposição. | Alto |
-| **Gestão de Clientes (CRM Simples)** | Registro de clientes, acompanhamento de histórico de compras e comunicação automatizada. | Médio |
-| **Emissão de Notas Fiscais Integrada** | Sistema que permite emissão simplificada de notas fiscais para MEIs, garantindo conformidade tributária. | Alto |
-| **Relatórios Gerenciais** | Geração de relatórios sobre desempenho financeiro, vendas e custos operacionais. | Médio |
-| **Controle de Agendamentos e Pedidos** | Ferramenta para negócios que trabalham com serviços, permitindo controle de horários e pedidos. | Médio |
-| **Painel de Indicadores (Dashboard Simples)** | Exibição de métricas essenciais, como faturamento, ticket médio e margem de lucro. | Médio |
-| **Gestão de Contas a Pagar e Receber** | Ferramenta para planejamento financeiro, acompanhamento de pagamentos e recebimentos futuros. | Médio |
-| **Sistema de Fidelização de Clientes** | Programa de recompensas baseado em compras recorrentes, descontos e brindes. | Alto |
-| **Gestão de Fornecedores** | Organização de contatos, prazos de entrega e condições comerciais para melhorar negociações. | Médio |
+## Introdução  
+Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação **Diagrama de Soluções**, que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
 
+A estrutura modular dos domínios, combinada com a hierarquia de ferramentas principais/secundárias e conexões cruzadas (ex: Registro de Vendas → Fluxo de Caixa), permite a criação de planos escaláveis que acompanham o crescimento progressivo de um MEI, desde a fase inicial até a maturidade operacional.  
 
-## Conclusão
-A melhoria da gestão dos MEIs exige uma abordagem estratégica, combinando tecnologia, capacitação e automação. As soluções apresentadas visam minimizar erros operacionais, aumentar a competitividade e garantir o crescimento sustentável do negócio. Com ferramentas acessíveis e eficientes, os microempreendedores podem evoluir para empresas de maior porte, fortalecendo sua posição no mercado.
+**[🔗 Acesse o Diagrama de Soluções no Figma](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=8-4&p=f&t=XdYzO5pRCfeSlNEh-0)**  
 
+---
+
+## Estratificação de Planos por Domínio  
+
+| Plano         | Domínios Incluídos               | Ferramentas Acessíveis                            | Preço (Sugestão) | Limitações                           |  
+|---------------|-----------------------------------|---------------------------------------------------|------------------|---------------------------------------|  
+| **Grátis**    | 1 Domínio (Escolha do usuário)   | Ferramentas **Principais** do domínio escolhido   | R$ 0/mês         | - PDV: 50 produtos<br>- Finanças: 5 transações/mês<br>- Clientes: 20 cadastros |  
+| **Básico**    | 1 Domínio + Conexões Básicas     | Todas ferramentas do domínio                      | R$ 49,90/mês     | Sem relatórios cruzados               |  
+| **Integrado** | 2 Domínios + Conexões Avançadas  | Ferramentas principais + secundárias + integração | R$ 89,90/mês     | Máx. 3 usuários                      |  
+| **Premium**   | Todos Domínios + Automações      | Funcionalidades premium + suporte prioritário     | R$ 149,90/mês    | Personalização limitada               |  
+
+---
+
+## Lógica de Monetização Baseada em Dependências  
+
+### 1. **Upselling por Conexões entre Domínios**  
+- **Exemplo 1:** A conexão **Cadastro de Cupons (Clientes) → Registro de Vendas (PDV)** só é liberada no plano **Integrado/Premium**, pois promove aumento de vendas via promoções.  
+- **Exemplo 2:** A dependência **Relatório de Produto → Fluxo de Caixa** exige o plano **Integrado**, justificando-se pela necessidade de análise financeira avançada.  
+
+### 2. **Monetização de Ferramentas Secundárias**  
+- **Relatórios (DRE, Relatório de Caixa):** Disponível apenas em planos pagos, com argumento de "controle financeiro estratégico".  
+- **Automações:** Ex: Reconciliação automática de **Contas a Pagar/Receber** (dependência do Fluxo de Caixa) como diferencial do **Premium**.  
+
+---
+
+## Modelo Híbrido (Assinatura + Transacional)  
+| Recurso                  | Descrição                                                                 | Preço                |  
+|--------------------------|---------------------------------------------------------------------------|----------------------|  
+| **Taxa por Cupom Externo** | Integração com marketplaces (ex.: ifood) via **Cadastro de Cupons**       | 1% do valor da venda |  
+| **White Label**           | Personalização da plataforma com marca do cliente (**Clientes → PDV**)    | R$ 299,90/mês        |  
+
+---
+
+## Promoções de Engajamento  
+- **Teste Grátis de 14 Dias:** Acesso a funcionalidades conectadas (ex: **Registro de Vendas → Gerenciamento de Fidelização**).  
+- **Indicação Premium:** 1 mês grátis no **Integrado** por indicação convertida.  
+
+---
+
+## Roadmap Futuro  
+| Módulo                  | Descrição                                                                 | Lançamento Previsto |  
+|-------------------------|---------------------------------------------------------------------------|---------------------|  
+| **E-commerce Integrado**| Expansão do **PDV** para vendas online (dependência do **Cadastro de Produtos**) | Q2 2025            |  
+| **Consultoria Financeira** | Análises personalizadas baseadas em **DRE** e **Fluxo de Caixa**         | Q3 2025            |  
+
+---
+
+## Conclusão  
+Este plano utiliza a arquitetura modular do **Diagrama de Soluções** para oferecer um caminho claro de crescimento:  
+1. **Plano Grátis:** Atrai MEIs iniciantes, limitando-se a um domínio (ex: PDV para quem foca em vendas).  
+2. **Planos Pagos:** Liberam conexões entre domínios (ex: Finanças + PDV), alinhadas às necessidades de negócios em expansão.  
+3. **Funcionalidades Premium:** Monetizam ferramentas secundárias e automações, críticas para escala operacional.  
+
+A estrutura de dependências (ex: **Cadastro de Grupos → Cadastro de Produtos → Registro de Vendas**) garante que a evolução entre planos seja natural, enquanto as conexões cruzadas (ex: **Cupons → Vendas → Fidelização**) criam valor percebido, incentivando upgrades.  
