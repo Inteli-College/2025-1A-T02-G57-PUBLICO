@@ -3,7 +3,7 @@
 ---
 
 ## Introdução  
-Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação [**Diagrama de Soluções**](/sprint-4/pt-br/diagrama_solucoes.md), que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com dependências e conexões críticas entre suas ferramentas.  
+Este plano de monetização foi desenvolvido com base nas inter-relações funcionais descritas na documentação [**Diagrama de Soluções**](/sprint-4/pt-br/diagrama_solucoes.md), que organiza a plataforma em três domínios independentes (**PDV**, **Finanças** e **Clientes**), com possíveis conexões entre suas ferramentas.  
 
 A estrutura modular dos domínios, combinada com a hierarquia de ferramentas principais/secundárias e conexões cruzadas (ex: Registro de Vendas → Fluxo de Caixa), permite a criação de planos escaláveis que acompanham o crescimento progressivo de um MEI, desde a fase inicial até a maturidade operacional.  
 
@@ -11,7 +11,7 @@ A estrutura modular dos domínios, combinada com a hierarquia de ferramentas pri
 
 ## Planos por Domínio  
 
-| Plano         | Domínios Incluídos       | Conexões           | Ferramentas                                  | Recursos Adicionais                  | Limitações                           | Preço (Sugestão)  |  
+| Plano         | Domínios Incluídos       | Conexões           | Ferramentas                                  | Recursos Adicionais                  | Limitações                           | Preço (analisar1)  |  
 |---------------|--------------------------|--------------------|----------------------------------------------|---------------------------------------|---------------------------------------|-------------------|  
 | **Grátis**    | 1 (Escolha do usuário)   | -                  | Ferramentas **principais** do domínio        | -                                     | - PDV/Finanças: 500 transações/mês<br>- Máx. 20 clientes cadastrados | **R$ 0/mês**      |  
 | **Básico**    | 1                        | Conexões básicas   | Todas as ferramentas do domínio              | -                                     | - Relatórios cruzados não disponíveis | **R$ 49,90/mês**  |  
