@@ -80,4 +80,4 @@ Este diagrama apresenta as conexões entre diferentes domínios do sistema:
 
 ## Conclusão
 
-Após analisar os diagramas, ficou claro que cada domínio é independente em suas tarefas principais, e a interação entre eles aprimora a performance do sistema. Esse entendimento guiará o modelo de monetização, oferecendo planos que permitem o acesso a cada domínio de forma separada, limitando também planos gratuitos ao acesso soemnte das ferramentas principais de um único domínio.
+Após analisar os diagramas, ficou claro que cada domínio é independente em suas tarefas principais, e a interação entre eles aprimora a performance do sistema. Esse entendimento guiará o modelo de monetização, oferecendo planos que permitem o acesso a cada domínio de forma separada, limitando também planos gratuitos ao acesso somente das ferramentas principais de um único domínio.
