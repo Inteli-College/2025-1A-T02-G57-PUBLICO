@@ -8,7 +8,7 @@ Versions:
 
 ## Introdução
 
-Nesta sprint, o foco foi na estruturação das soluções e na criação de um palono de monetização.
+Nesta sprint, o foco foi na estruturação das soluções e na criação de um plano de monetização.
 
 Os tópicos abordados nesta fase estão detalhados em documentos específicos, conforme descrito abaixo:
 
@@ -17,7 +17,6 @@ Os tópicos abordados nesta fase estão detalhados em documentos específicos, c
 - [**Modelo de Monetização**](./pt-br/modelo_monetizacao.md).
 
 Cada um desses tópicos é um link para os respectivos documentos, onde detalho os processos e as decisões tomadas ao longo da sprint. Eles servirão como base para as próximas etapas do projeto.
-
 
 
 

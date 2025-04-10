@@ -111,9 +111,9 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 - Diagrama de Soluções
 - Modelo de Monetização
 
-[ **Sprint 5 (Semana 9-10) - Preparação para Go To Market** ](./sprint-5/)
+[ **Sprint 5 (Semana 9-10) - Definição do Modelo de Negócio** ](./sprint-5/)
 
-- Extruturação do Market Validation
+- Modelo de Negócio
 
 
 ---
