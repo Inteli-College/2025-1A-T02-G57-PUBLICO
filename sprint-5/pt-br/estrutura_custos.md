@@ -20,7 +20,7 @@ Este documento apresenta a estrutura de custos projetada para a operação inici
 | **Prospecção comercial**         | Deslocamentos e logística                            | R$ 1.500,00       |
 | **Treinamentos e capacitação**   | Cursos e qualificação contínua                       | R$ 500,00         |
 | **ISS**                          | 2% sobre receita bruta (não incluído no total fixo)  | -                 |
-| **Total Mensal (exc. ISS)**      |                                                      | **R$ 18.647,09**  |
+| **Total Mensal**      |                                                      | **R$ 18.647,09**  |
 
 ---
 
@@ -51,7 +51,15 @@ Estes custos estão relacionados ao crescimento, validação de mercado e forma�
 
 ## Ponto de Equilíbrio (Break-even)
 
-O ponto de equilíbrio estimado é de **212 usuários ativos pagantes**, considerando o ticket médio planejado e os custos fixos atuais.
+Para cobrir os custos fixos mensais estimados (R$ 18.647,09), considerando um ticket médio líquido de R$ 89,90, o ponto de equilíbrio pode ser calculado da seguinte forma:
+
+```
+Ponto de Equilíbrio = Custo Fixo / Ticket Médio Líquido
+Ticket Médio Líquido = 89,90 * 0,98 ( Descontando o ISS ) → 88,102
+Ponto de Equilíbrio ≈ R$ 18.647,09 / R$ 88,102 ≈ 211,6 → 212 usuários
+```
+
+Assim, o projeto atinge o ponto de equilíbrio com 212 usuários ativos pagantes.
 
 ---
 
