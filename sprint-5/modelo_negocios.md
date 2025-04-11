@@ -3,13 +3,15 @@
 ## Introdução
 O presente documento descreve a estruturação inicial de um modelo de negócios voltado ao atendimento de micro e pequenos empreendedores (MEIs e MEs), com base nos desafios identificados na [fase inicial](../README.md). A proposta tem como objetivo demonstrar, de forma estratégica, como a solução desenvolvida pode se transformar em uma operação financeiramente viável e escalável. Esta etapa serve como base para validações futuras e direciona os próximos ciclos de desenvolvimento.
 
-## 🎯 Segmento de Clientes
+Para melhor aproveitamento dessa documentação acesse o figma do projeto pelo link a seguir: [Estruturação de Negócio - FIGMA](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=75-2&p=f&t=iAy5ShMnVbSZh1hO-0)
+
+## Segmento de Clientes
 Empreendedores de 24 a 45 anos registrados como **MEI** ou **ME**, com interesse em **expansão de seus negócios**.  
 Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
 
 ---
 
-## 💎 Proposta de Valor
+## Proposta de Valor
 - **Gestão simples, suporte real, foco no crescimento.**
 - Softwares modulares: **pague apenas pelo que usar.**
 - Interface **intuitiva** e acessível.
@@ -17,7 +19,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## 📢 Canais de Acesso
+## Canais de Acesso
 - **Prospecção direta:** WhatsApp, abordagem presencial.
 - **Relacionamento contínuo:** WhatsApp.
 - **Educação do lead:** Blog com conteúdo relevante.
@@ -25,7 +27,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## ❤️ Relacionamento com Clientes
+## Relacionamento com Clientes
 - **3 meses gratuitos** para cidades onde a empresa ainda não atua (via prospecção).
 - **Descontos por indicação**, vinculados ao tempo de uso da empresa indicada (site e prospecção).
 - **1 mês gratuito de teste** do sistema (site e prospecção).
@@ -34,7 +36,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## 🛠️ Atividades-Chave
+## Atividades-Chave
 - Desenvolvimento e manutenção do software.
 - Criação de conteúdo educativo e relevante.
 - Prospecção ativa e atendimento comercial.
@@ -43,7 +45,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## 🧰 Recursos-Chave
+## Recursos-Chave
 - Site institucional e plataforma web.
 - Desenvolvedor sênior.
 - Time de conteúdo e comercial.
@@ -53,7 +55,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## 🤝 Parcerias-Chave
+## Parcerias-Chave
 - **Fornecedores** de produtos (ex: dropshipping).
 - **Consultores especializados** para conteúdo técnico e validação.
 - **Parceiros locais** para prospecção comercial.
@@ -61,12 +63,43 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
   - Mercado Pago (pagamentos)
   - Google Cloud Platform
   - Firebase Authentication
-  - Hostinger (hospedagem)
+  - Hostinger (hospedagem e dns)
 
 ---
 
-## 💸 Estrutura de Custos
-Custos operacionais previstos para 1.000 clientes ativos. Ver arquivo `estrutura_custos.md`.
+## Estrutura de Custos
+A seguir, detalhamos os principais custos envolvidos na operação, organizados por natureza:
+
+### Custos Fixos Diretos
+
+| Item                                 | Valor Mensal      | Observação                                        |
+|--------------------------------------|-------------------|---------------------------------------------------|
+| Hospedagem Premium (viafacilis.com.br) | R$ 38,99           | Plano anual dividido em 12 meses                 |
+| Domínio .COM.BR                      | R$ 4,99            | Registro anual dividido em 12 meses              |
+| Colaboradores PJ (2x)                | R$ 3.600,00        | Pró-labore dos sócios                             |
+| Funcionário CLT                      | R$ 2.756,33        | Salário de R$ 1.800,00 + encargos trabalhistas    |
+
+### Custos Indiretos
+
+- Marketing e aquisição de usuários (CAC)
+- Prospecção comercial em novas regiões
+- Consultorias especializadas e validação de módulos
+- Treinamento interno e capacitação técnica da equipe
+
+### Custos Variáveis Diretos
+
+| Item                                 | Valor Estimado    | Observação                                        |
+|--------------------------------------|-------------------|---------------------------------------------------|
+| Google Cloud Firestore               | R$ 18,18           | Base de 1.000 usuários utilizando 3GB/mês         |
+| ISS (Imposto sobre Serviço)          | 2% da receita      | Aplicado sobre a receita bruta mensal             |
+
+> **Ponto de equilíbrio (break-even):** estimado a partir de **212 usuários ativos pagantes**, com base na estrutura atual de custos e no ticket médio planejado.
+
+Para uma visão mais detalhada, acesse a documentação completa sobre a [estrutura de custos](./estrutura_custos.md).
+
+---
+
+
 
 
 ## Conclusão
