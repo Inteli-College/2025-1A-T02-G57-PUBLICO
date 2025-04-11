@@ -14,11 +14,7 @@ Os temas abordados nesta etapa estão documentados separadamente, conforme os li
 
 - [**Modelo de negócio baseado em canvas**](./pt-br/modelo_negocios.md).
 
-- [**Estrutura de custos**](./pt-br/modelo_monetizacao.md).
-
-- [**Cálculo do ponto de equilíbrio**](./pt-br/modelo_monetizacao.md).
-
-- [**Análise preliminar do mercado-alvo**](./pt-br/modelo_monetizacao.md).
+- [**Viabilidade financeira**](./pt-br/modelo_monetizacao.md).
 
 Cada um desses tópicos é um link para os respectivos documentos, onde detalho os processos e as decisões tomadas ao longo da sprint. Eles servirão como base para as próximas etapas do projeto.
 

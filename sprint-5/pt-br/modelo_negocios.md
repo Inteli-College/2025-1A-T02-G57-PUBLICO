@@ -1,17 +1,23 @@
 # Modelo de Negócio 
 
 ## Introdução
-O presente documento descreve a estruturação inicial de um modelo de negócios voltado ao atendimento de micro e pequenos empreendedores (MEIs e MEs), com base nos desafios identificados na [problemática](../../README.md). A proposta tem como objetivo demonstrar, de forma estratégica, como a solução desenvolvida pode se transformar em uma operação financeiramente viável e escalável. Esta etapa serve como base para validações futuras e direciona os próximos ciclos de desenvolvimento.
+Este documento compila os estudos realizados até aqui, estruturando um modelo de negócio voltado para micro e pequenos empreendedores (MEIs e MEs). A proposta é apresentar, de forma estratégica, como a solução pode evoluir para uma operação rentável e escalável, servindo de base para validações futuras e guiando os próximos ciclos de desenvolvimento.
 
 Para melhor aproveitamento dessa documentação acesse o figma do projeto pelo link a seguir: [Estruturação de Negócio - FIGMA](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=75-2&p=f&t=iAy5ShMnVbSZh1hO-0)
 
-## Segmento de Clientes
+## Business Model Canvas
+
+Para facilitar a visualização do modelo de negócio, utilizei o Business Model Canvas, uma ferramenta estratégica amplamente adotada por empreendedores para descrever, planejar e validar modelos de negócio.
+
+O canvas é composto por nove blocos fundamentais — como proposta de valor, segmentos de clientes, canais, fontes de receita e estrutura de custos — permitindo uma compreensão resumida da operação, além de apoiar na identificação de oportunidades.
+
+### Segmento de Clientes
 Empreendedores de 24 a 45 anos registrados como **MEI** ou **ME**, com interesse em **expansão de seus negócios**.  
 Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
 
 ---
 
-## Proposta de Valor
+### Proposta de Valor
 - **Gestão simples, suporte real, foco no crescimento.**
 - Softwares modulares: **pague apenas pelo que usar.**
 - Interface **intuitiva** e acessível.
@@ -19,7 +25,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Canais de Acesso
+### Canais de Acesso
 - **Prospecção direta:** WhatsApp, abordagem presencial.
 - **Relacionamento contínuo:** WhatsApp.
 - **Educação do lead:** Blog com conteúdo relevante.
@@ -27,7 +33,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Relacionamento com Clientes
+### Relacionamento com Clientes
 - **3 meses gratuitos** para cidades onde a empresa ainda não atua (via prospecção).
 - **Descontos por indicação**, vinculados ao tempo de uso da empresa indicada (site e prospecção).
 - **1 mês gratuito de teste** do sistema (site e prospecção).
@@ -36,7 +42,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Atividades-Chave
+### Atividades-Chave
 - Desenvolvimento e manutenção do software.
 - Criação de conteúdo educativo e relevante.
 - Prospecção ativa e atendimento comercial.
@@ -45,7 +51,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Recursos-Chave
+### Recursos-Chave
 - Site institucional e plataforma web.
 - Desenvolvedor sênior.
 - Time de conteúdo e comercial.
@@ -55,7 +61,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Parcerias-Chave
+### Parcerias-Chave
 - **Fornecedores** de produtos (ex: dropshipping).
 - **Consultores especializados** para conteúdo técnico e validação.
 - **Parceiros locais** para prospecção comercial.
@@ -67,7 +73,7 @@ Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa 
 
 ---
 
-## Estrutura de Custos
+### Estrutura de Custos
 A seguir, detalhamos os principais custos envolvidos na operação, organizados por natureza:
 
 ### Custos Fixos Diretos
