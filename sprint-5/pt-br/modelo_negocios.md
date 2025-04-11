@@ -1,7 +1,7 @@
 # Modelo de Negócio 
 
 ## Introdução
-O presente documento descreve a estruturação inicial de um modelo de negócios voltado ao atendimento de micro e pequenos empreendedores (MEIs e MEs), com base nos desafios identificados na [fase inicial](../README.md). A proposta tem como objetivo demonstrar, de forma estratégica, como a solução desenvolvida pode se transformar em uma operação financeiramente viável e escalável. Esta etapa serve como base para validações futuras e direciona os próximos ciclos de desenvolvimento.
+O presente documento descreve a estruturação inicial de um modelo de negócios voltado ao atendimento de micro e pequenos empreendedores (MEIs e MEs), com base nos desafios identificados na [problemática](../../README.md). A proposta tem como objetivo demonstrar, de forma estratégica, como a solução desenvolvida pode se transformar em uma operação financeiramente viável e escalável. Esta etapa serve como base para validações futuras e direciona os próximos ciclos de desenvolvimento.
 
 Para melhor aproveitamento dessa documentação acesse o figma do projeto pelo link a seguir: [Estruturação de Negócio - FIGMA](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=75-2&p=f&t=iAy5ShMnVbSZh1hO-0)
 
