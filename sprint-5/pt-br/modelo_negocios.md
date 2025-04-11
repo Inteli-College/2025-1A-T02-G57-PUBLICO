@@ -11,6 +11,8 @@ Para facilitar a visualização do modelo de negócio, utilizei o Business Model
 
 O canvas é composto por nove blocos fundamentais — como proposta de valor, segmentos de clientes, canais, fontes de receita e estrutura de custos — permitindo uma compreensão resumida da operação, além de apoiar na identificação de oportunidades.
 
+---
+
 ### Segmento de Clientes
 Empreendedores de 24 a 45 anos registrados como **MEI** ou **ME**, com interesse em **expansão de seus negócios**.  
 Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
@@ -109,10 +111,10 @@ Para uma visão mais detalhada, acesse a documentação completa sobre a [estrut
 
 
 ## Conclusão
-A análise deste modelo de negócios, aliada à estrutura de custos e à definição do ponto de equilíbrio, aponta para uma proposta financeiramente viável, escalável e alinhada às necessidades reais dos micro e pequenos empreendedores apontadas na [sprint 1](../../README.md). Ao longo da estruturação, buscou-se partir de uma base concreta — a elevada taxa de mortalidade desses negócios — para desenvolver uma solução que ultrapassa a oferta de um sistema, propondo um ecossistema de suporte que integra conteúdo e consultoria.
+A análise deste modelo de negócios, aliada à estrutura de custos e à definição do ponto de equilíbrio, aponta para uma proposta financeiramente viável, escalável e alinhada às necessidades reais dos micro e pequenos empreendedores apontadas na [sprint 1](../../README.md). Ao longo da estruturação, buscou-se partir de uma base concreta — a elevada taxa de mortalidade desses negócios — para desenvolver uma solução que ultrapassa a oferta de um sistema, propondo um ecossistema de suporte.
 
-Com base nas estimativas iniciais, o ponto de equilíbrio é atingido com aproximadamente 212 usuários ativos pagantes, o que demonstra potencial de sustentabilidade a médio prazo. As estratégias de aquisição previstas — como prospecção local, programas de indicação e marketing de conteúdo — foram definidas considerando tanto a capacidade de execução quanto a realidade de acesso digital da [persona](../../sprint-3/pt-br/persona.md). Além disso, a estrutura modular do sistema previstas na [sprint 4](../../sprint-4/README.md) garante flexibilidade na adoção de funcionalidades, permitindo ao usuário começar pequeno e crescer dentro da mesma plataforma.
+Com base nas estimativas iniciais, o ponto de equilíbrio é atingido com aproximadamente 212 usuários ativos pagantes, o que demonstra potencial de sustentabilidade a médio prazo. As estratégias de aquisição previstas — como prospecção local, programas de indicação e marketing de conteúdo — foram definidas considerando tanto a capacidade de execução quanto a realidade de acesso digital da [persona](../../sprint-3/pt-br/persona.md). Além disso, a estrutura modular do sistema previstas na [sprint 4](../../sprint-4/README.md) garante flexibilidade na adoção, permitindo ao usuário o crescimento dentro da mesma plataforma.
 
-Durante o desenvolvimento deste modelo, buscou-se garantir aderência ao perfil do público atendido, priorizando a mitigação dos [gargalos estruturais](../../README.md/#problemática) que comprometem a sustentabilidade dos negócios. A proposta representa, portanto, uma síntese entre oportunidade de mercado, capacidade técnica e uma tese de impacto com potencial de retorno.
+Durante o desenvolvimento deste modelo, buscou-se garantir aderência ao perfil do público atendido, priorizando a mitigação dos [desafios sistêmicos](../../README.md/#problemática) que comprometem a sustentabilidade dos negócios. A proposta representa, portanto, uma síntese entre oportunidade de mercado, capacidade técnica e uma tese de impacto com potencial de retorno.
 
 O próximo passo será a validação de todas essas hipóteses por meio de pesquisa com o público e testes com usuários reais. Esse processo permitirá calibrar o produto, ajustar a estratégia e refinar os elementos do modelo para que se mantenham coerentes com a realidade do mercado.

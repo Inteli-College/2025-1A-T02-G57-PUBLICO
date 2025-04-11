@@ -78,7 +78,7 @@ Esta seção detalha a evolução esperada dos custos conforme a base de usuári
 | **Expansão Moderada**  | 3.000    | R$ 54,54       | R$ 2.000,00           | R$ 12.000,00   | 2 (R$ 2.734,91)       | R$ 22.500,00 (estimado)  |
 | **Crescimento Rápido** | 10.000   | R$ 181,80      | R$ 4.000,00           | R$ 18.000,00   | 3 (R$ 8.204,73)       | R$ 33.500,00 (estimado)  |
 
-> O aumento do número de usuários permite a diluição dos custos fixos por cliente, mas também exige maior investimento em marketing e expansão da equipe de vendas e suporte técnico.
+> O crescimento da base de usuários contribui para a diluição dos custos fixos por cliente, aumentando a eficiência operacional. No entanto, esse avanço também demanda maior investimento em suporte técnico e infraestrutura. À medida que a receita se expande, abre-se espaço para a adoção de estratégias mais ousadas de marketing e vendas, impulsionando ainda mais o ciclo de crescimento.
 
 **Firestore:** estimado com base em R$ 0,01818 por usuário/mês (3 GB/mês). Custo total = usuários × R$ 0,01818.
 
