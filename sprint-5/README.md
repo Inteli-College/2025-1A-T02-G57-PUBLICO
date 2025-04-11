@@ -8,11 +8,11 @@ Versions:
 
 ## Introdução
 
-Nesta sprint, o foco foi na estruturação do modelo de negócio e na análise de concorrentes.
+Durante a Sprint 5, o foco esteve na consolidação do modelo de negócio e na análise do cenário competitivo.
 
-Os tópicos abordados nesta fase estão detalhados em documentos específicos, conforme descrito abaixo:
+Os temas abordados nesta etapa estão documentados separadamente, conforme os links abaixo:
 
-- [**Modelo de negócio baseado em canvas**](./pt-br/diagrama_solucoes.md).
+- [**Modelo de negócio baseado em canvas**](./pt-br/modelo_negocios.md).
 
 - [**Estrutura de custos**](./pt-br/modelo_monetizacao.md).
 
