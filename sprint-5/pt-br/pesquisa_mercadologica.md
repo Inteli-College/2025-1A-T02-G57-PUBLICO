@@ -3,7 +3,7 @@
 ---
 
 ## Objetivo  
-Analisar o cenário dos microempreendedores brasileiros, identificar desafios estruturais e oportunidades para introdução de um sistema modular de gestão integrada. Complementarmente, mapear o ecossistema competitivo e validar hipóteses de diferenciação.  
+Analisar o cenário dos microempreendedores brasileiros, identificar desafios estruturais e oportunidades para introdução de um sistema modular de gestão integrada. Juntamente, mapear o ecossistema competitivo e validar hipóteses de diferenciação.  
 
 ---
 
@@ -71,15 +71,16 @@ Pesquisa quanti-qualitativa baseada em:
 
 ### Lacunas de Mercado *(Cross-analyse SEBRAE/ABES)*:  
 1. **Modelo híbrido**: 89% dos MEIs buscam ferramentas que combinem gestão e capacitação *(FGV, 2023)*  
-2. **Acessibilidade**: 73% consideram preços acima de R$ 80/mês inviáveis *(pesquisa própria)*  
+2. **Acessibilidade**: 73% consideram preços acima de R$ 100/mês inviáveis *(pesquisa própria)*  
 3. **Suporte humanizado**: 62% valorizam atendimento via WhatsApp mais que chatbots *(TIC Empresas, 2022)*  
 
 ### Proposta de Valor Diferencial  
-| Componente          | Solução Proposta                     | Benchmarking             |  
-|---------------------|--------------------------------------|--------------------------|  
-| **Usabilidade**     | Interface gamificada                 | 47% mais intuitiva que concorrentes (testes A/B) |  
-| **Modelo Comercial**| Assinatura modular (R$ 29-59/mês)    | 60% abaixo da média de mercado |  
-| **Suporte**         | Mentoria via WhatsApp + vídeos <3min | Redução de 82% no tempo de onboarding |  
+| Diferencial                        | Explicação                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------|
+| Sistema modular                   | O usuário escolhe os módulos que precisa (estoque, vendas, relatórios)     |
+| Interface ultra simplificada      | Usabilidade pensada para pessoas com baixa familiaridade digital           |
+| Conteúdo + ferramenta + suporte   | Combinação de gestão, capacitação e atendimento direto via WhatsApp e Blog        |
+| Preço acessível e escalável       | Modelo por assinatura com entrada gratuita e planos progressivos           |
 
 ---
 
