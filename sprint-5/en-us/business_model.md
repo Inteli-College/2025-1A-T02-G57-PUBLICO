@@ -1,120 +1,117 @@
-# Modelo de Negócio 
+# Business Model
 
-## Introdução
-Este documento compila os estudos realizados até aqui, estruturando os em modelo de negócio voltado para micro e pequenos empreendedores (MEIs e MEs). A proposta é apresentar, de forma estratégica, como a solução pode evoluir para uma operação rentável e escalável, servindo de base para validações futuras e guiando os próximos ciclos de desenvolvimento.
+## Introduction
+This document compiles the studies conducted so far, structuring them into a business model aimed at micro and small entrepreneurs (MEIs and MEs). The goal is to present, in a strategic way, how the solution can evolve into a profitable and scalable operation, serving as a foundation for future validations and guiding the next development cycles.
 
-Para melhor aproveitamento dessa documentação acesse o figma do projeto pelo link a seguir: [Estruturação de Negócio - FIGMA](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=75-2&p=f&t=iAy5ShMnVbSZh1hO-0)
+For better use of this documentation, access the project's Figma by following this link: [Business Structuring - FIGMA](https://www.figma.com/design/dnBqepKRepi4wqaEI2k5nA/Negócio?node-id=75-2&p=f&t=iAy5ShMnVbSZh1hO-0)
 
 ## Business Model Canvas
 
-Para facilitar a visualização do modelo de negócio, utilizei o Business Model Canvas, uma ferramenta estratégica amplamente adotada por empreendedores para descrever, planejar e validar modelos de negócio.
+To facilitate the visualization of the business model, I used the Business Model Canvas, a strategic tool widely adopted by entrepreneurs to describe, plan, and validate business models.
 
-O canvas é composto por nove blocos fundamentais — como proposta de valor, segmentos de clientes, canais, fontes de receita e estrutura de custos — permitindo uma compreensão resumida da operação, além de apoiar na identificação de oportunidades.
-
----
-
-### Segmento de Clientes
-Empreendedores de 24 a 45 anos registrados como **MEI** ou **ME**, com interesse em **expansão de seus negócios**.  
-Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
+The canvas consists of nine key blocks — such as value proposition, customer segments, channels, revenue streams, and cost structure — allowing a summarized understanding of the operation, as well as helping to identify opportunities.
 
 ---
 
-### Proposta de Valor
-- **Gestão simples, suporte real, foco no crescimento.**
-- Softwares modulares: **pague apenas pelo que usar.**
-- Interface **intuitiva** e acessível.
-- Sistema **escalável** que cresce com o empreendedor.
+### Customer Segment
+Entrepreneurs aged 24 to 45, registered as **MEI** or **ME**, interested in **expanding their businesses**.  
+Potential market with more than **19 million companies**, growing at a rate of **2.8 million per year**, although **20% close in the first year**.
 
 ---
 
-### Canais de Acesso
-- **Prospecção direta:** WhatsApp, abordagem presencial.
-- **Relacionamento contínuo:** WhatsApp.
-- **Educação do lead:** Blog com conteúdo relevante.
-- **Venda:** Presencial ou por meio do site.
+### Value Proposition
+- **Simple management, real support, focus on growth.**
+- Modular software: **pay only for what you use.**
+- **Intuitive** and accessible interface.
+- **Scalable** system that grows with the entrepreneur.
 
 ---
 
-### Relacionamento com Clientes
-- **3 meses gratuitos** para cidades onde a empresa ainda não atua (via prospecção).
-- **Descontos por indicação**, vinculados ao tempo de uso da empresa indicada (site e prospecção).
-- **1 mês gratuito de teste** do sistema (site e prospecção).
-- **Blog com dicas práticas** para o nicho atendido.
-- Canal de **suporte e dúvidas** pelo site.
+### Access Channels
+- **Direct prospecting:** WhatsApp, in-person approach.
+- **Continuous relationship:** WhatsApp.
+- **Lead education:** Blog with relevant content.
+- **Sale:** In-person or through the website.
 
 ---
 
-### Atividades-Chave
-- Desenvolvimento e manutenção do software.
-- Criação de conteúdo educativo e relevante.
-- Prospecção ativa e atendimento comercial.
-- Gestão e expansão de parcerias estratégicas.
-- Análise de dados e melhoria contínua.
+### Customer Relationship
+- **3 free months** for cities where the company is not yet operating (via prospecting).
+- **Referral discounts**, linked to the usage time of the referred company (website and prospecting).
+- **1 month free trial** of the system (website and prospecting).
+- **Blog with practical tips** for the targeted niche.
+- **Support and doubt channel** through the website.
 
 ---
 
-### Recursos-Chave
-- Site institucional e plataforma web.
-- Desenvolvedor sênior.
-- Time de conteúdo e comercial.
-- Acordos com fornecedores e consultores.
-- Marca confiável com apelo ao crescimento dos pequenos negócios.
-- Base de dados dos usuários.
+### Key Activities
+- Development and maintenance of the software.
+- Creation of educational and relevant content.
+- Active prospecting and commercial support.
+- Management and expansion of strategic partnerships.
+- Data analysis and continuous improvement.
 
 ---
 
-### Parcerias-Chave
-- **Fornecedores** de produtos (ex: dropshipping).
-- **Consultores especializados** para conteúdo técnico e validação.
-- **Parceiros locais** para prospecção comercial.
-- **APIs e serviços externos:**
-  - Mercado Pago (pagamentos)
+### Key Resources
+- Institutional website and web platform.
+- Senior developer.
+- Content and commercial team.
+- Agreements with suppliers and consultants.
+- Trusted brand with appeal to the growth of small businesses.
+- User database.
+
+---
+
+### Key Partnerships
+- **Product suppliers** (e.g., dropshipping).
+- **Specialized consultants** for technical content and validation.
+- **Local partners** for commercial prospecting.
+- **External APIs and services:**
+  - Mercado Pago (payments)
   - Google Cloud Platform
   - Firebase Authentication
-  - Hostinger (hospedagem e dns)
+  - Hostinger (hosting and DNS)
 
 ---
 
-### Estrutura de Custos
-A seguir, detalhamos os principais custos envolvidos na operação, organizados por natureza:
+### Cost Structure
+Below are the main costs involved in the operation, organized by nature:
 
-### Custos Fixos Diretos
+### Direct Fixed Costs
 
-| Item                                 | Valor Mensal      | Observação                                        |
+| Item                                 | Monthly Value     | Observation                                        |
 |--------------------------------------|-------------------|---------------------------------------------------|
-| Hospedagem Premium (viafacilis.com.br) | R$ 38,99           | Plano anual dividido em 12 meses                 |
-| Domínio .COM.BR                      | R$ 4,99            | Registro anual dividido em 12 meses              |
-| Colaboradores PJ (2x)                | R$ 3.600,00        | Pró-labore dos sócios                             |
-| Funcionário CLT                      | R$ 2.756,33        | Salário de R$ 1.800,00 + encargos trabalhistas    |
+| Premium Hosting (viafacilis.com.br)  | R$ 38.99          | Annual plan divided by 12 months                  |
+| .COM.BR Domain                       | R$ 4.99           | Annual registration divided by 12 months         |
+| PJ Employees (2x)                    | R$ 3,600.00       | Founders' salary                                  |
+| CLT Employee                         | R$ 2,756.33       | Salary of R$ 1,800.00 + labor charges            |
 
-### Custos Indiretos
+### Indirect Costs
 
-- Marketing e aquisição de usuários (CAC)
-- Prospecção comercial em novas regiões
-- Consultorias especializadas e validação de módulos
-- Treinamento interno e capacitação técnica da equipe
+- Marketing and user acquisition (CAC)
+- Commercial prospecting in new regions
+- Specialized consulting and module validation
+- Internal training and technical team capacity building
 
-### Custos Variáveis Diretos
+### Direct Variable Costs
 
-| Item                                 | Valor Estimado    | Observação                                        |
+| Item                                 | Estimated Value   | Observation                                        |
 |--------------------------------------|-------------------|---------------------------------------------------|
-| Google Cloud Firestore               | R$ 18,18           | Base de 1.000 usuários utilizando 3GB/mês         |
-| ISS (Imposto sobre Serviço)          | 2% da receita      | Aplicado sobre a receita bruta mensal             |
+| Google Cloud Firestore               | R$ 18.18          | Based on 1,000 users using 3GB/month              |
+| ISS (Service Tax)                    | 2% of revenue     | Applied to monthly gross revenue                  |
 
-> **Ponto de equilíbrio (break-even):** estimado a partir de **212 usuários ativos pagantes**, com base na estrutura atual de custos e no ticket médio planejado.
+> **Break-even point:** Estimated from **212 active paying users**, based on the current cost structure and planned average ticket.
 
-Para uma visão mais detalhada, acesse a documentação completa sobre a [estrutura de custos](./estrutura_custos.md).
+For a more detailed view, access the complete documentation on the [cost structure](./estrutura_custos.md).
 
 ---
 
+## Conclusion
+The analysis of this business model, combined with the cost structure and break-even point definition, points to a financially viable, scalable proposal aligned with the real needs of micro and small entrepreneurs identified in [sprint 1](../../README.md). Throughout the structuring, we sought to start from a concrete base — the high mortality rate of these businesses — to develop a solution that goes beyond offering a system, proposing a supportive ecosystem.
 
+Based on initial estimates, the break-even point is reached with approximately 212 active paying users, demonstrating medium-term sustainability potential. The acquisition strategies outlined — such as local prospecting, referral programs, and content marketing — were defined considering both execution capacity and the [persona's](../../sprint-3/pt-br/persona.md) digital access reality. Additionally, the modular structure of the system outlined in [sprint 4](../../sprint-4/README.md) ensures flexibility in adoption, allowing users to grow within the same platform.
 
+During the development of this model, we ensured alignment with the target audience's profile, prioritizing the mitigation of [systemic challenges](../../README.md/#problemática) that threaten business sustainability. The proposal represents, therefore, a synthesis between market opportunity, technical capacity, and an impact thesis with potential for return.
 
-## Conclusão
-A análise deste modelo de negócios, aliada à estrutura de custos e à definição do ponto de equilíbrio, aponta para uma proposta financeiramente viável, escalável e alinhada às necessidades reais dos micro e pequenos empreendedores apontadas na [sprint 1](../../README.md). Ao longo da estruturação, buscou-se partir de uma base concreta — a elevada taxa de mortalidade desses negócios — para desenvolver uma solução que ultrapassa a oferta de um sistema, propondo um ecossistema de suporte.
-
-Com base nas estimativas iniciais, o ponto de equilíbrio é atingido com aproximadamente 212 usuários ativos pagantes, o que demonstra potencial de sustentabilidade a médio prazo. As estratégias de aquisição previstas — como prospecção local, programas de indicação e marketing de conteúdo — foram definidas considerando tanto a capacidade de execução quanto a realidade de acesso digital da [persona](../../sprint-3/pt-br/persona.md). Além disso, a estrutura modular do sistema previstas na [sprint 4](../../sprint-4/README.md) garante flexibilidade na adoção, permitindo ao usuário o crescimento dentro da mesma plataforma.
-
-Durante o desenvolvimento deste modelo, buscou-se garantir aderência ao perfil do público atendido, priorizando a mitigação dos [desafios sistêmicos](../../README.md/#problemática) que comprometem a sustentabilidade dos negócios. A proposta representa, portanto, uma síntese entre oportunidade de mercado, capacidade técnica e uma tese de impacto com potencial de retorno.
-
-O próximo passo será a validação de todas essas hipóteses por meio de pesquisa com o público e testes com usuários reais. Esse processo permitirá calibrar o produto, ajustar a estratégia e refinar os elementos do modelo para que se mantenham coerentes com a realidade do mercado.
+The next step will be to validate all these hypotheses through research with the audience and tests with real users. This process will allow us to fine-tune the product, adjust the strategy, and refine the elements of the model to ensure they remain consistent with market reality.
