@@ -52,15 +52,6 @@ A pesquisa foi estruturada a partir das seguintes fontes:
 
 ---
 
-## Oportunidade de Mercado
-
-- **Mercado pouco explorado com soluções simples e acessíveis**
-- Demanda reprimida por **ferramentas intuitivas** que evitem burocracia e ajudem no crescimento
-- Adoção crescente de **softwares SaaS e serviços por assinatura** entre pequenos negócios
-- Busca por **ecossistemas** que combinem: gestão + capacitação + suporte
-
----
-
 ## Concorrência
 
 ### 1. **Bling ERP**
@@ -99,6 +90,30 @@ A pesquisa foi estruturada a partir das seguintes fontes:
 - **Forças**: Grande base de usuários, plataforma consolidada de delivery, suporte a pagamentos e logística
 
 - **Fraquezas**: Foco exclusivo em alimentação, taxas de comissão altas, pouca flexibilidade para personalização de gestão de negócios
+
+---
+
+## Oportunidade de Mercado
+### Desafios do Mercado Atual
+Apesar de representar mais de 50% das empresas no Brasil, os microempreendedores individuais (MEIs) e microempresas enfrentam sérios desafios que comprometem seu crescimento e sustentabilidade:
+
+- **Falta de Capacitação e Suporte**: Muitos MEIs não têm acesso a informações sobre gestão eficiente e não sabem como precificar seus produtos ou serviços corretamente. Essa falta de apoio impacta diretamente na competitividade e na capacidade de fidelizar clientes.
+
+- **Ferramentas Inadequadas ou Complexas**: Embora haja diversas soluções de gestão no mercado, muitas delas são voltadas para empresas maiores e acabam sendo excessivamente complexas e caras para os MEIs. As opções mais simples, como o MEI Fácil, ainda são limitadas e não abrangem todas as necessidades de um negócio em crescimento.
+
+- **Burocracia e Desinformação**: A dificuldade em lidar com a burocracia, como a emissão de notas fiscais e a gestão tributária, continua sendo um dos maiores obstáculos. Mesmo com o avanço digital, muitos ainda dependem de soluções manuais como planilhas e papel.
+
+### Oportunidade Identificada
+**Soluções Simples e Escaláveis**: Há uma demanda crescente por soluções modulares e acessíveis, que atendam às necessidades específicas dos MEIs sem sobrecarregar com complexidade. Sistemas de gestão intuitivos, com suporte simples e acessível, podem ser uma grande vantagem competitiva.
+
+**Integração de Capacitação e Suporte**: Os microempreendedores não buscam apenas ferramentas de gestão, mas também formação e apoio contínuo. A criação de um ecossistema que combine gestão, capacitação e suporte em tempo real pode preencher uma lacuna significativa no mercado.
+
+**Crescimento do Mercado de Software como Serviço (SaaS)**: O modelo SaaS está em ascensão, com uma adoção crescente entre pequenos negócios. A flexibilidade de sistemas por assinatura, com escalabilidade e atualizações contínuas, oferece um ótimo caminho para atingir esse público.
+
+**Demanda por Preço Acessível**: Muitos pequenos empreendedores buscam soluções que sejam financeiramente acessíveis, de fácil implementação e uso intuitivo. O foco em um preço justo e uma experiência simplificada pode ser um diferencial crucial.
+
+Potencial de Crescimento
+Com 14,6 milhões de MEIs e 4,8 milhões de microempresas no Brasil, o mercado é vasto e ainda pouco explorado. A taxa de mortalidade de empresas no Brasil, especialmente entre os MEIs, destaca a necessidade urgente de apoio contínuo, planejamento estratégico e ferramentas eficazes de gestão. Uma solução acessível, com foco em capacitação, controle financeiro simplificado e redução da burocracia, pode atender a uma necessidade crescente e se tornar essencial para a sobrevivência e prosperidade de muitos pequenos negócios.
 
 ---
 
