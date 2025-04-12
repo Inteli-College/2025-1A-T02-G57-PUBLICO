@@ -93,6 +93,13 @@ A pesquisa foi estruturada a partir das seguintes fontes:
 - **Forças**: Gestão de despesas e receitas simples, funciona offline, tem controle com nivél de acesso
 - **Fraquezas**: Design antigo, pouco conhecido, 
 
+### 7. iFood
+- **Público-alvo**: Restaurantes e pequenos estabelecimentos no setor alimentício
+
+- **Forças**: Grande base de usuários, plataforma consolidada de delivery, suporte a pagamentos e logística
+
+- **Fraquezas**: Foco exclusivo em alimentação, taxas de comissão altas, pouca flexibilidade para personalização de gestão de negócios
+
 ---
 
 ## Diferenciais da Solução Proposta
