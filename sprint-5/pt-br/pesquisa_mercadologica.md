@@ -3,7 +3,7 @@
 ---
 
 ## Objetivo  
-Analisar o cenário dos microempreendedores brasileiros, identificar desafios estruturais e oportunidades para introdução de um sistema modular de gestão integrada. Juntamente, mapear o ecossistema competitivo e validar hipóteses de diferenciação.  
+Analisar o cenário dos microempreendedores brasileiros, identificar desafios estruturais e oportunidades para introdução de um sistema modular de gestão integrada. Juntamente, mapear o ecossistema competitivo e expor hipóteses de diferenciação.  
 
 ---
 
