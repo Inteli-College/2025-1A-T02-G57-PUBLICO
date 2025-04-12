@@ -75,8 +75,8 @@ Esta seção detalha a evolução esperada dos custos conforme a base de usuári
 
 | Cenário                 | Usuários | Firestore (R$) | Suporte Técnico (R$) | Marketing (R$) | Vendedores (CLT)     | Estimativa Total Mensal |
 |------------------------|----------|----------------|-----------------------|----------------|-----------------------|--------------------------|
-| **Expansão Moderada**  | 3.000    | R$ 54,54       | R$ 2.000,00           | R$ 12.000,00   | 2 (R$ 2.734,91)       | R$ 22.500,00 (estimado)  |
-| **Crescimento Rápido** | 10.000   | R$ 181,80      | R$ 4.000,00           | R$ 18.000,00   | 3 (R$ 8.204,73)       | R$ 33.500,00 (estimado)  |
+| **Expansão Moderada**  | 3.000    | R$ 54,54       | R$ 2.000,00           | R$ 12.000,00   | 1 (R$ 2.734,91)       | R$ 22.683,09  |
+| **Crescimento Rápido** | 10.000   | R$ 181,80      | R$ 4.000,00           | R$ 18.000,00   | 3 (R$ 8.204,73)       | R$ 34.280,17  |
 
 > O crescimento da base de usuários contribui para a diluição dos custos fixos por cliente, aumentando a eficiência operacional. No entanto, esse avanço também demanda maior investimento em suporte técnico e infraestrutura. À medida que a receita se expande, abre-se espaço para a adoção de estratégias mais ousadas de marketing e vendas, impulsionando ainda mais o ciclo de crescimento.
 
@@ -90,4 +90,6 @@ Esta seção detalha a evolução esperada dos custos conforme a base de usuári
 
 ## Conclusão
 
-A estrutura de custos aqui apresentada foi elaborada com base em estimativas realistas e alinhadas ao modelo de negócio proposto. O equilíbrio entre investimento em aquisição, operação e evolução do produto garante um ponto de equilíbrio acessível e uma trajetória de crescimento sustentável. Mais detalhes sobre o racional estratégico podem ser encontrados no [documento do modelo de negócio](./modelo_negocio.md).
+A estrutura de custos proposta demonstra que o modelo de negócio é financeiramente sustentável desde seus estágios iniciais, com um ponto de equilíbrio acessível e bem definido. À medida que a base de usuários cresce, os custos fixos se diluem rapidamente, o que proporciona um ganho expressivo de margem e eficiência operacional.
+
+O modelo também se beneficia de uma operação enxuta, baseada em tecnologia e automação, o que reduz consideravelmente a dependência de mão de obra direta. Mesmo em cenários de crescimento acelerado, os custos com pessoal evoluem de forma controlada e proporcional, sem comprometer a escalabilidade do negócio. Mais detalhes sobre o racional estratégico podem ser encontrados no [documento do modelo de negócio](./modelo_negocio.md).
