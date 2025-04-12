@@ -1,122 +1,136 @@
-# Pesquisa de Mercado
+# Market Research
 
-## Objetivo
+## Objective
 
-Analisar o cenário atual dos microempreendedores no Brasil, identificar os principais desafios enfrentados por esse público e compreender as oportunidades para introdução de um sistema modular de gestão, suporte e capacitação. A pesquisa também visa mapear os principais concorrentes diretos e indiretos já consolidados no mercado.
-
----
-
-## Metodologia
-
-A pesquisa foi estruturada a partir das seguintes fontes:
-
-- Relatórios e estudos do SEBRAE
-- Dados do IBGE e Receita Federal
-- Levantamentos próprios a partir de entrevistas informais com microempreendedores (n=4)
+Analyze the current scenario of microentrepreneurs in Brazil, identify the main challenges faced by this audience, and understand the opportunities for introducing a modular management, support, and training system. The research also aims to map the main direct and indirect competitors already established in the market.
 
 ---
 
-## Panorama Geral
+## Methodology
 
-### Perfil dos MEIs e MEs no Brasil
+The research was structured based on the following sources:
 
-- **MEIs ativos**: 14,6 milhões (dados de 2024)
-- **Microempresas (MEs)**: 4,8 milhões
-- Representam **53,4% das empresas ativas** no Brasil.
-- Crescimento anual médio: **+2,8 milhões de novas aberturas**
-- Taxa de mortalidade: **20% no primeiro ano**, **29% até o quinto ano**
-- Segmentos mais populares: Alimentação, Varejo, Beleza, Serviços gerais
+- SEBRAE reports and studies
+- Data from IBGE and the Federal Revenue
+- Internal surveys through informal interviews with microentrepreneurs (n=4)
 
 ---
 
-## Principais Dores e Desafios Identificados
+## General Overview
 
-1. **Falta de controle financeiro e planejamento**  
-   - 62% não usam ferramentas de gestão básicas  
-   - 82% não realizam planejamento anual  
-   - Alto índice de inadimplência tributária por falhas no controle
+### Profile of MEIs and MEs in Brazil
 
-2. **Burocracia e insegurança jurídica**  
-   - Emissão de nota fiscal, DAS e obrigações acessórias confundem 41% dos entrevistados aponta [levantamento da IOB](https://diariotocantinense.com.br/economia/2025/02/01/pesquisa-aponta-desafios-na-emissao-de-notas-fiscais-no-brasil/).
-
-   - Medo de multas e falta de contabilidade acessível
-
-3. **Baixa digitalização**  
-   - Muitos ainda usam papel ou planilhas  
-   - Pouco domínio de ferramentas digitais mais robustas (ERPs tradicionais)
-
-4. **Falta de apoio e direcionamento estratégico**  
-   - A maioria empreende por necessidade, sem formação em negócios  
-   - 65% relatam não saber precificar corretamente  
-   - Dificuldade para captar clientes e fidelizar
+- **Active MEIs**: 14.6 million (2024 data)
+- **Microenterprises (MEs)**: 4.8 million
+- Represent **53.4% of active businesses** in Brazil.
+- Average annual growth: **+2.8 million new openings**
+- Mortality rate: **20% in the first year**, **29% by the fifth year**
+- Most popular sectors: Food, Retail, Beauty, General Services
 
 ---
 
-## Oportunidade de Mercado
+## Key Pain Points and Challenges Identified
 
-- **Mercado pouco explorado com soluções simples e acessíveis**
-- Demanda reprimida por **ferramentas intuitivas** que evitem burocracia e ajudem no crescimento
-- Adoção crescente de **softwares SaaS e serviços por assinatura** entre pequenos negócios
-- Busca por **ecossistemas** que combinem: gestão + capacitação + suporte
+1. **Lack of financial control and planning**  
+   - 62% do not use basic management tools  
+   - 82% do not conduct annual planning  
+   - High tax default rates due to control failures
+
+2. **Bureaucracy and legal insecurity**  
+   - Issuance of invoices, DAS, and ancillary obligations confuse 41% of respondents, according to [IOB survey](https://diariotocantinense.com.br/economia/2025/02/01/pesquisa-aponta-desafios-na-emissao-de-notas-fiscais-no-brasil/).
+
+   - Fear of fines and lack of accessible accounting
+
+3. **Low digitalization**  
+   - Many still use paper or spreadsheets  
+   - Limited knowledge of more robust digital tools (traditional ERPs)
+
+4. **Lack of support and strategic guidance**  
+   - Most start businesses out of necessity, without business training  
+   - 65% report not knowing how to price correctly  
+   - Difficulty in acquiring and retaining customers
 
 ---
 
-## Concorrência
+## Competition
 
 ### 1. **Bling ERP**
-- **Público-alvo**: Pequenos e médios negócios, com foco em e-commerces
-- **Forças**: Sistema completo, integração com marketplaces, emissão de NF-e
-- **Fraquezas**: Complexo para MEIs, curva de aprendizado alta, foco em quem já tem vendas online
+- **Target Audience**: Small and medium businesses, focusing on e-commerce
+- **Strengths**: Complete system, integration with marketplaces, issuance of NF-e
+- **Weaknesses**: Complex for MEIs, steep learning curve, focused on those already selling online
 
 ### 2. **Conta Azul**
-- **Público-alvo**: Micro e pequenas empresas com contador
-- **Forças**: Conexão contábil, sistema robusto, automações fiscais
-- **Fraquezas**: Mensalidades mais altas, exige conhecimento prévio de gestão
+- **Target Audience**: Micro and small businesses with an accountant
+- **Strengths**: Accounting connection, robust system, tax automation
+- **Weaknesses**: Higher subscription fees, requires prior knowledge of management
 
 ### 3. **Omie**
-- **Público-alvo**: Empresas em expansão
-- **Forças**: ERP com CRM e funcionalidades avançadas
-- **Fraquezas**: Interface densa, alto custo para MEIs, foco em integração contábil
+- **Target Audience**: Expanding businesses
+- **Strengths**: ERP with CRM and advanced features
+- **Weaknesses**: Dense interface, high cost for MEIs, focus on accounting integration
 
 ### 4. **MEI Fácil by Neon**
-- **Público-alvo**: MEIs iniciantes
-- **Forças**: Aplicativo gratuito, ajuda na formalização e DAS
-- **Fraquezas**: Não é um sistema de gestão completo; foco limitado ao básico; Não é expecializado
+- **Target Audience**: Beginner MEIs
+- **Strengths**: Free app, helps with formalization and DAS
+- **Weaknesses**: Not a complete management system; limited focus on basic functions; not specialized
 
 ### 5. **QuickBooks ZeroPaper (Intuit)**
-- **Público-alvo**: Autônomos e MEIs
-- **Forças**: Gestão de despesas e receitas simples, design amigável
-- **Fraquezas**: Produto foi descontinuado em 2023, base migrada para outras soluções
+- **Target Audience**: Freelancers and MEIs
+- **Strengths**: Simple expense and income management, user-friendly design
+- **Weaknesses**: Product discontinued in 2023, base migrated to other solutions
 
 ### 6. **Click Certo**
-- **Público-alvo**: ME e MEIs do setor alimenticio
-- **Forças**: Gestão de despesas e receitas simples, funciona offline, tem controle com nivél de acesso
-- **Fraquezas**: Design antigo, pouco conhecido, 
+- **Target Audience**: MEIs and microenterprises in the food sector
+- **Strengths**: Simple expense and income management, works offline, has access level controls
+- **Weaknesses**: Outdated design, little known
 
-### 7. iFood
-- **Público-alvo**: Restaurantes e pequenos estabelecimentos no setor alimentício
-
-- **Forças**: Grande base de usuários, plataforma consolidada de delivery, suporte a pagamentos e logística
-
-- **Fraquezas**: Foco exclusivo em alimentação, taxas de comissão altas, pouca flexibilidade para personalização de gestão de negócios
+### 7. **iFood**
+- **Target Audience**: Restaurants and small establishments in the food sector
+- **Strengths**: Large user base, consolidated delivery platform, payment and logistics support
+- **Weaknesses**: Exclusively food-focused, high commission fees, limited flexibility for business management customization
 
 ---
 
-## Diferenciais da Solução Proposta
+## Market Opportunity
 
-| Diferencial                        | Explicação                                                                 |
-|-----------------------------------|----------------------------------------------------------------------------|
-| Sistema modular                   | O usuário escolhe os módulos que precisa (estoque, vendas, relatórios)     |
-| Interface ultra simplificada      | Usabilidade pensada para pessoas com baixa familiaridade digital           |
-| Conteúdo + ferramenta + suporte   | Combinação de gestão, capacitação e atendimento direto via WhatsApp e Blog        |
-| Preço acessível e escalável       | Modelo por assinatura com entrada gratuita e planos progressivos           |
+### Current Market Challenges
+Despite representing over 50% of businesses in Brazil, microentrepreneurs (MEIs) and microenterprises face significant challenges that compromise their growth and sustainability:
+
+- **Lack of Training and Support**: Many MEIs do not have access to efficient management information and do not know how to price their products or services correctly. This lack of support directly impacts competitiveness and customer retention.
+
+- **Inadequate or Complex Tools**: Although there are various management solutions in the market, many of them are geared towards larger companies and end up being overly complex and expensive for MEIs. Simpler options, such as MEI Fácil, are still limited and do not cover all the needs of a growing business.
+
+- **Bureaucracy and Misinformation**: Difficulty in handling bureaucracy, such as issuing invoices and managing taxes, remains one of the biggest obstacles. Even with digital advancements, many still rely on manual solutions like spreadsheets and paper.
+
+### Identified Opportunity
+**Simple and Scalable Solutions**: There is a growing demand for modular and accessible solutions that meet the specific needs of MEIs without overwhelming them with complexity. Intuitive management systems with simple and accessible support can be a significant competitive advantage.
+
+**Integration of Training and Support**: Microentrepreneurs are not only looking for management tools but also for ongoing training and support. Creating an ecosystem that combines management, training, and real-time support could fill a significant gap in the market.
+
+**Growth of the Software as a Service (SaaS) Market**: The SaaS model is on the rise, with increasing adoption among small businesses. The flexibility of subscription-based systems, with scalability and continuous updates, offers an excellent path to reach this audience.
+
+**Demand for Affordable Pricing**: Many small entrepreneurs seek solutions that are financially accessible, easy to implement, and intuitive to use. Focusing on a fair price and a simplified experience could be a crucial differentiator.
+
+Growth Potential  
+With 14.6 million MEIs and 4.8 million microenterprises in Brazil, the market is vast and still underexplored. The mortality rate of businesses in Brazil, especially among MEIs, highlights the urgent need for continuous support, strategic planning, and effective management tools. An affordable solution focused on training, simplified financial control, and reducing bureaucracy could address a growing need and become essential for the survival and prosperity of many small businesses.
 
 ---
 
-## Conclusão
+## Differentiators of the Proposed Solution
 
-O mercado de microempreendedores no Brasil é amplo, crescente e ainda pouco atendido por soluções adequadas à sua realidade. A maioria dos sistemas existentes são complexos, caros ou voltados para empresas mais estruturadas, deixando de fora o empreendedor de base. O que abre margem para a entrada de um novo player, com foco em oferecer valor por meio de uma experiência centrada no crescimento do pequeno negócio.
+| Differentiator                    | Explanation                                                                   |
+|-----------------------------------|-------------------------------------------------------------------------------|
+| Modular system                    | The user selects the modules they need (inventory, sales, reports)            |
+| Ultra-simplified interface        | Usability designed for people with low digital familiarity                    |
+| Content + tool + support          | Combination of management, training, and direct support via WhatsApp and Blog |
+| Affordable and scalable pricing   | Subscription-based model with free entry and progressive plans               |
 
 ---
 
-O próximo passo será a **concepção do MVP**, seguida da validação de hipóteses por meio de testes com usuários reais e da análise dos feedbacks obtidos.
+## Conclusion
+
+The microentrepreneur market in Brazil is vast, growing, and still underserved by solutions suited to its reality. Most existing systems are complex, expensive, or targeted at more structured companies, leaving the grassroots entrepreneur out. This opens the door for a new player focused on delivering value through an experience centered on the growth of small businesses.
+
+---
+
+The next step will be the **conceptualization of the MVP**, followed by hypothesis validation through testing with real users and analysis of the feedback obtained.
