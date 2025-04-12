@@ -8,9 +8,11 @@ Versions:
 
 ## Introdução
 
-Durante a Sprint 5, o foco esteve na consolidação do modelo de negócio e na análise do cenário competitivo.
+Durante a Sprint 5, o foco esteve na análise do cenário competitivo e na consolidação do modelo de negócio.
 
 Os temas abordados nesta etapa estão documentados separadamente, conforme os links abaixo:
+
+- [**Pesquisa Mercadológica**](./pt-br/pesquisa_mercadologica.md)
 
 - [**Modelo de negócio baseado em canvas**](./pt-br/modelo_negocios.md).
 

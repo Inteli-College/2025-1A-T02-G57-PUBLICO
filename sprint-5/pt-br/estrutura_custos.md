@@ -65,7 +65,7 @@ Assim, o projeto atinge o ponto de equilíbrio com 212 usuários ativos pagantes
 
 ## Economia de Escala
 
-A estrutura modular da plataforma permite diluir os custos fixos à medida que a base de usuários cresce. Recursos como marketing, hospedagem e suporte técnico apresentam ganho de eficiência proporcional ao aumento do volume de clientes.
+A estrutura modular da plataforma permite diluir os custos fixos à medida que a base de usuários cresce. Recursos como marketing, vendas e suporte técnico apresentam ganho de eficiência proporcional ao aumento do volume de clientes.
 
 ---
 

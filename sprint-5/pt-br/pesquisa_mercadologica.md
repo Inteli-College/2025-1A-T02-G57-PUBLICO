@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Analisar o cenário atual dos microempreendedores no Brasil, identificar as principais dores enfrentadas por esse público e compreender as oportunidades para introdução de um sistema modular de gestão, suporte e capacitação. A pesquisa também visa mapear os principais concorrentes diretos e indiretos já consolidados no mercado.
+Analisar o cenário atual dos microempreendedores no Brasil, identificar os principais desafios enfrentados por esse público e compreender as oportunidades para introdução de um sistema modular de gestão, suporte e capacitação. A pesquisa também visa mapear os principais concorrentes diretos e indiretos já consolidados no mercado.
 
 ---
 
@@ -37,7 +37,8 @@ A pesquisa foi estruturada a partir das seguintes fontes:
    - Alto índice de inadimplência tributária por falhas no controle
 
 2. **Burocracia e insegurança jurídica**  
-   - Emissão de nota fiscal, DAS e obrigações acessórias confundem 41% dos entrevistados  
+   - Emissão de nota fiscal, DAS e obrigações acessórias confundem 41% dos entrevistados aponta [levantamento da IOB](https://diariotocantinense.com.br/economia/2025/02/01/pesquisa-aponta-desafios-na-emissao-de-notas-fiscais-no-brasil/).
+
    - Medo de multas e falta de contabilidade acessível
 
 3. **Baixa digitalização**  
@@ -108,8 +109,12 @@ A pesquisa foi estruturada a partir das seguintes fontes:
 
 ## Considerações Finais
 
-O mercado de MEIs e MEs no Brasil é massivo, crescente e ainda subatendido em soluções integradas de gestão acessível. As principais plataformas existentes não atendem de forma ideal os empreendedores de base — seja por complexidade, preço ou foco incorreto. O cenário aponta forte aderência à proposta de um sistema simples, com onboarding humanizado, preços justos e suporte estratégico.
+O mercado de microempreendedores no Brasil é amplo, crescente e ainda pouco atendido por soluções adequadas à sua realidade. A maioria dos sistemas existentes são complexos, caros ou voltados para empresas mais estruturadas, deixando de fora o empreendedor de base.
 
-O próximo passo será a **validação de hipóteses por meio de testes com usuários reais**, análise de feedbacks e ajustes no MVP.
+A pesquisa revela que as principais dores dos MEIs e MEs estão na falta de controle financeiro, nas dificuldades com obrigações fiscais e na baixa digitalização. Esse cenário apresenta uma oportunidade clara para o desenvolvimento de uma solução simples, acessível e que integre gestão, capacitação e suporte em um único ambiente.
+
+Há margem para a entrada de um novo player, com foco em oferecer valor de forma contínua, por meio de uma experiência centrada no crescimento do pequeno negócio.
+
+O próximo passo será a **validação de hipóteses por meio de testes com usuários reais**, análise de feedbacks e concepção do MVP.
 
 ---
