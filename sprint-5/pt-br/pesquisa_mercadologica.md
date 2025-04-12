@@ -108,20 +108,15 @@ A pesquisa foi estruturada a partir das seguintes fontes:
 |-----------------------------------|----------------------------------------------------------------------------|
 | Sistema modular                   | O usuário escolhe os módulos que precisa (estoque, vendas, relatórios)     |
 | Interface ultra simplificada      | Usabilidade pensada para pessoas com baixa familiaridade digital           |
-| Conteúdo + ferramenta + suporte   | Combinação de gestão, capacitação e atendimento direto via WhatsApp        |
-| Prospecção e presença local       | Estratégia offline para ampliar acesso e inclusão digital                  |
+| Conteúdo + ferramenta + suporte   | Combinação de gestão, capacitação e atendimento direto via WhatsApp e Blog        |
 | Preço acessível e escalável       | Modelo por assinatura com entrada gratuita e planos progressivos           |
 
 ---
 
-## Considerações Finais
+## Conclusão
 
-O mercado de microempreendedores no Brasil é amplo, crescente e ainda pouco atendido por soluções adequadas à sua realidade. A maioria dos sistemas existentes são complexos, caros ou voltados para empresas mais estruturadas, deixando de fora o empreendedor de base.
-
-A pesquisa revela que as principais dores dos MEIs e MEs estão na falta de controle financeiro, nas dificuldades com obrigações fiscais e na baixa digitalização. Esse cenário apresenta uma oportunidade clara para o desenvolvimento de uma solução simples, acessível e que integre gestão, capacitação e suporte em um único ambiente.
-
-Há margem para a entrada de um novo player, com foco em oferecer valor de forma contínua, por meio de uma experiência centrada no crescimento do pequeno negócio.
-
-O próximo passo será a **validação de hipóteses por meio de testes com usuários reais**, análise de feedbacks e concepção do MVP.
+O mercado de microempreendedores no Brasil é amplo, crescente e ainda pouco atendido por soluções adequadas à sua realidade. A maioria dos sistemas existentes são complexos, caros ou voltados para empresas mais estruturadas, deixando de fora o empreendedor de base. O que abre margem para a entrada de um novo player, com foco em oferecer valor por meio de uma experiência centrada no crescimento do pequeno negócio.
 
 ---
+
+O próximo passo será a **concepção do MVP**, seguida da validação de hipóteses por meio de testes com usuários reais e da análise dos feedbacks obtidos.
