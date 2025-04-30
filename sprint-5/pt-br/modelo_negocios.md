@@ -12,7 +12,7 @@ Para facilitar a visualização do modelo de negócio, utilizei o Business Model
 O canvas é composto por nove blocos fundamentais — como proposta de valor, segmentos de clientes, canais, fontes de receita e estrutura de custos — permitindo uma compreensão resumida da operação, além de apoiar na identificação de oportunidades.
 
 
-[Canvas](../../img/Modelo%20de%20Negócio%20-%20Canvas.png)
+![Canvas](../../img/Modelo%20de%20Negócio%20-%20Canvas.png)
 
 
 ---
