@@ -15,7 +15,7 @@ The canvas consists of nine key blocks — such as value proposition, customer s
 
 ### Customer Segment
 Entrepreneurs aged 24 to 45, registered as **MEI** or **ME**, interested in **expanding their businesses**.  
-Potential market with more than **19 million companies**, growing at a rate of **2.8 million per year**, although **20% close in the first year**.
+Potential market with more than **14 million companies**, growing at a rate of **2.8 million per year**, although **20% close in the first year**.
 
 ---
 

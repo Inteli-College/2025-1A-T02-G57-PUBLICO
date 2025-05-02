@@ -19,7 +19,7 @@ O canvas é composto por nove blocos fundamentais — como proposta de valor, se
 
 ### Segmento de Clientes
 Empreendedores de 24 a 45 anos registrados como **MEI** ou **ME**, com interesse em **expansão de seus negócios**.  
-Mercado potencial com mais de **19 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
+Mercado potencial com mais de **14 milhões de empresas**, crescendo a uma taxa de **2,8 milhões por ano**, embora **20% fechem ainda no primeiro ano**.
 
 ---
 
