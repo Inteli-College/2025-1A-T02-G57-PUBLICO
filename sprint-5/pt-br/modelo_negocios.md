@@ -25,9 +25,9 @@ Mercado potencial com mais de **14 milhões de empresas**, crescendo a uma taxa 
 
 ### Proposta de Valor
 - **Gestão simples, suporte real, foco no crescimento.**
-- | Softwares modulares: **pague apenas pelo que usar.**
-- | Interface **intuitiva** e **acessível**.
-- | Sistema **escalável** que cresce com o empreendedor.
+| Softwares modulares: **pague apenas pelo que usar.**
+| Interface **intuitiva** e **acessível**.
+| Sistema **escalável** que cresce com o empreendedor.
 
 ---
 
