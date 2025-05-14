@@ -119,7 +119,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 
 ---
 
-### Módulo 2 - Mitigação de riscos e Estruturação Legal 
+### Módulo 2 - Mitigação de riscos e Estruturação Legal [ - Acesse o Módulo ](./M2/)
 
 **Observações gerais do módulo**<br>
 Após o aprofundamento do entendimento do negócio alcançado no primeiro módulo, 
