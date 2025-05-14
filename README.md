@@ -119,7 +119,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 
 ---
 
-### Módulo 2 - Mitigação de riscos e Estruturação Legal [ - Acesse o Módulo ](./M2/)
+### Módulo 2 - Mitigação de riscos e Estruturação Legal [ - Acesse o Módulo ](./M/)
 
 **Observações gerais do módulo**<br>
 Após o aprofundamento do entendimento do negócio alcançado no primeiro módulo, 
@@ -133,22 +133,22 @@ definição dos principais diferenciais competitivos.
 - Module Planning
 - Justification for Changes
 
-[ **Sprint 2 (Semana 3-4) - Prevenção a Riscos** ](./sprint-2/)
+[ **Sprint 2 (Semana 3-4) - Prevenção a Riscos** ](./M2/sprint-2/)
 
 - Legal Structuring
 - Risk Matrix and Contingency Plan
 
-[ **Sprint 3 (Semana 5-6) - Estudo de Diferenciação** ](./sprint-3/)
+[ **Sprint 3 (Semana 5-6) - Estudo de Diferenciação** ](./M2/sprint-3/)
 
 - Blue Ocean Value Evaluation Matrix
 - Feasibility of Invoice Issuance 
 
-[ **Sprint 4 (Semana 7-8) - Preparação Para o Desenvolvimento** ](./sprint-4/)
+[ **Sprint 4 (Semana 7-8) - Preparação Para o Desenvolvimento** ](./M2/sprint-4/)
 
 - Functional and Non-Functional Requirements
 - Study of Deployment Strategy
 
-[ **Sprint 5 (Semana 9-10) - Estruturação do Banco de Dados** ](./sprint-5/)
+[ **Sprint 5 (Semana 9-10) - Estruturação do Banco de Dados** ](./M2/sprint-5/)
 
 - Database Structuring
 
