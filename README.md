@@ -87,7 +87,7 @@ O sistema oferecerá funcionalidades essenciais para otimizar a operação diár
 - **Relatórios e Análises:** A plataforma fornecerá relatórios detalhados sobre o desempenho do negócio, incluindo faturamento, despesas e margem de lucro, com opção de exportação para formatos como CSV e PDF. Também serão apresentados gráficos e métricas-chave, como taxa de crescimento de vendas e distribuição de receitas, para apoiar a tomada de decisões estratégicas.
 
 
-[ ### Módulo 1 - Planejamento e Estruturação do Negócio ](./M1/)
+### Módulo 1 - Planejamento e Estruturação do Negócio [ - Acesse o Módulo ](./M1/)
 
 **Sprint 1 (Semana 1-2) - Pesquisa e Documentação**
 
